@@ -1,0 +1,174 @@
+﻿[
+  {
+    "name": "tablet1",
+    "type": "toggle",
+    "img": "images/items/tablet1_alt.png",
+    "codes": "1st_Tablet"
+  },
+  {
+    "name": "2nd Tablet",
+    "type": "toggle",
+    "img": "images/items/tablet2_alt.png",
+    "codes": "2nd_Tablet"
+  },
+  {
+    "name": "tablet3",
+    "type": "toggle",
+    "img": "images/items/tablet3_alt.png",
+    "codes": "3rd_Tablet"
+  },
+  {
+    "name": "tablet4",
+    "type": "toggle",
+    "img": "images/items/tablet4_alt.png",
+    "codes": "4th_Tablet"
+  },
+  {
+    "name": "pyramid",
+    "type": "toggle",
+    "img": "images/items/pyramid_page2.png",
+    "codes": "Pyramid_Page"
+  },
+  {
+    "name": "shrine",
+    "type": "toggle",
+    "img": "images/items/shrine_page2.png",
+    "codes": "Shrine_Page"
+  },
+  {
+    "name": "trench",
+    "type": "toggle",
+    "img": "images/items/trench_page2.png",
+    "codes": "Trench_Page"
+  },
+  {
+    "name": "falls",
+    "type": "toggle",
+    "img": "images/items/falls_page2.png",
+    "codes": "Falls_Page"
+  },
+  {
+    "name": "walse",
+    "type": "toggle",
+    "img": "images/items/walse_key2.png",
+    "codes": "Walse_Tower_Key"
+  },
+  {
+    "name": "steamship",
+    "type": "toggle",
+    "img": "images/items/steamship_key2.png",
+    "codes": "Steamship_Key"
+  },
+  {
+    "name": "bridge",
+    "type": "toggle",
+    "img": "images/items/bridge_key2.png",
+    "codes": "Big_Bridge_Key"
+  },
+  {
+    "name": "sub",
+    "type": "toggle",
+    "img": "images/items/sub_key2.png",
+    "codes": "Submarine_Key"
+  },
+  {
+    "name": "adamantite",
+    "type": "toggle",
+    "img": "images/items/adamantite.png",
+    "codes": "Adamantite"
+  },
+  {
+    "name": "branch",
+    "type": "toggle",
+    "img": "images/items/branch.png",
+    "codes": "Elder_Branch"
+  },
+  {
+    "name": "hiryuu",
+    "type": "toggle",
+    "img": "images/items/hiryuu.png",
+    "codes": "Hiryuu_Call"
+  },
+  {
+    "name": "bracelet",
+    "type": "toggle",
+    "img": "images/items/bracelet.png",
+    "codes": "Bracelet"
+  },
+  {
+    "name": "antibarrier",
+    "type": "toggle",
+    "img": "images/items/antibarrier.png",
+    "codes": "Anti_Barrier"
+  },
+  {
+    "name": "fire",
+    "type": "toggle",
+    "img": "images/items/fire.png",
+    "codes": "Ifrit's_Fire"
+  },
+  {
+    "name": "moogle",
+    "type": "toggle",
+    "img": "images/items/moogle.png",
+    "codes": "Moogle_Suit"
+  },
+  {
+    "name": "bait",
+    "type": "toggle",
+    "img": "images/items/bait.png",
+    "codes": "SandwormBait"
+  },
+  {
+    "name": "radar",
+    "type": "toggle",
+    "img": "images/items/mirage_radar.png",
+    "codes": "Mirage_Radar"
+  },
+  {
+    "name": "Treasure Chests",
+    "codes": "chests",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/show.png",
+        "codes": "chests_on",
+        "inherit_codes":false
+      },
+      {
+        "img": "images/items/hide.png",
+        "codes": "chests_off",
+        "inherit_codes":false
+	    }
+    ]
+  },
+  {
+    "name": "Worlds Unlocked",
+    "codes": "worlds",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/world_1.png",
+        "codes": "world1",
+        "inherit_codes":true
+      },
+      {
+        "img": "images/items/world_2.png",
+        "codes": "world2",
+        "inherit_codes":true
+	    },
+      {
+        "img": "images/items/world_3.png",
+        "codes": "world3",
+        "inherit_codes":true
+	    }
+    ]
+  }
+ ] 
+  

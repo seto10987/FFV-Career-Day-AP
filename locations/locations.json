@@ -1,0 +1,2250 @@
+[
+	{
+		"name": "Locations",
+		"children": [
+			{
+				"name": "Tycoon Castle",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Tycoon Castle - Tycoon Castle Cabin (Cabin (1))"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Cabin (Cabin (2))"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Pot (Hi-Potion)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Pot (Ether (1))"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Barrel (Elixir)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Barrel (Phoenix Down)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Barrel (Cabin)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Pot (Ether 2)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Pot (Elixir)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Pot (Phoenix Down)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Pot (Maiden's Kiss)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Chest (Shuriken)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Chest (Giyaman)"
+					},
+					{
+						"name": "Tycoon Castle - Tycoon Castle Chest (Katana)"
+					},
+					{
+						"name": "Tycoon Castle - Chancellor at Tycoon (Healing Staff)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 2943,
+						"y": 2119
+					}
+				]
+			},
+			{
+				"name": "Pirate's Cave",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Pirate's Cave - Pirate's Cave Chest (Leather Cap)"
+					},
+					{
+						"name": "Pirate's Cave - Pirate's Cave Chest (Tent)"
+					},
+					{
+						"name": "Pirate's Cave - Pirate's Cave Chest (Ether)"
+					},
+					{
+						"name": "Pirate's Cave - Pirate's Cave Chest (300)"
+				},
+					{
+						"name": "Pirate's Cave - 8 potions (from NPC) (Potion)"
+					},
+					{
+						"name": "Pirate's Cave - Syldra (Syldra)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 2648,
+						"y": 1850
+					},
+					{
+				"map": "world3",
+						"x": 2648,
+						"y": 1850
+					}
+				]
+			},
+			{
+				"name": "Wind Shrine",
+				"sections": [
+					{
+						"name": "Wind Shrine - 5 potions (from NPC) (Potion)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - Wind Shrine Chest (Broadsword)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - Wind Shrine Chest (Tent)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - Wind Shrine Chest (Leather Cap)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - WingRaptor (Boss)",
+						"hosted_item": "wingraptor"
+					},
+					{
+						"name": "Wind Shrine - Wind Shrine Chest (Staff)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - Wind Crystal (Knight)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - Wind Crystal (BlueMage)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - Wind Crystal (BlackMage)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - Wind Crystal (WhiteMage)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - Wind Crystal (Monk)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Wind Shrine - Wind Crystal (Thief)",
+						"visibility_rules":["chests_on"]
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 2915,
+						"y": 840
+					}
+				]
+			},
+			{
+				"name": "Tule",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Tule - Beginner's House Chest (Ether)"
+					},
+					{
+						"name": "Tule - Beginner's House Chest (100)"
+					},
+					{
+						"name": "Tule - Beginner's House Chest (Potion)"
+					},
+					{
+						"name": "Tule - Beginner's House Chest (Phoenix Down)"
+					},
+					{
+						"name": "Tule - Beginner's House Chest (Tent)"
+					},
+					{
+						"name": "Tule - Beginner's House Chest MIB 1 (Leather Shoes)"
+					},
+					{
+						"name": "Tule - Tule Barrel (150)"
+					},
+					{
+						"name": "Tule - Tule Box (Leather Shoes)"
+					},
+					{
+						"name": "Tule - Tule Barrel (Potion)"
+					},
+					{
+						"name": "Tule - Tule Box (Tent)"
+					},
+					{
+						"name": "Tule - Tule Bush (Phoenix Down)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 2089,
+						"y": 1433
+					},
+					{
+				"map": "world3",
+						"x": 2089,
+						"y": 1433
+					}
+				]
+			},
+			{
+				"name": "Torna Canal",
+				"sections": [
+					{
+						"hosted_item": "karlibos"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 2750,
+						"y": 1420
+					}
+				]
+			},
+			{
+				"name": "Ship Graveyard",
+				"access_rules": ["karlibos"],
+				"sections": [
+					{
+						"name": "Ship Graveyard - Ship Graveyard Chest (Flail)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ship Graveyard - Ship Graveyard Chest (Phoenix Down (1))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ship Graveyard - Ship Graveyard Chest (Tent)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ship Graveyard - Ship Graveyard Box (990)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ship Graveyard - Ship Graveyard Chest (Potion)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ship Graveyard - Ship Graveyard Chest (Antidote (1))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ship Graveyard - Ship Graveyard Chest (Antidote (2))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ship Graveyard - Ship Graveyard Chest (Phoenix Down (2))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ship Graveyard - Siren (Boss)",
+						"hosted_item": "siren"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 3380,
+						"y": 760
+					}
+				]
+			},
+			{
+				"name": "Carwen",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Carwen - Carwen Barrel (Antidote)"
+					},
+					{
+						"name": "Carwen - Carwen Box (Ice Rod)"
+					},
+					{
+						"name": "Carwen - Carwen Pot (1000)"
+					},
+					{
+						"name": "Carwen - Lone Wolf Barrel (Cabin)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 3520,
+						"y": 1240
+					},
+					{
+				"map": "world3",
+						"x": 3520,
+						"y": 1240
+					}
+				]
+			},
+			{
+				"name": "North Mountain",
+				"sections": [
+					{
+						"name": "North Mountain - North Mountain Chest (Soft)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "North Mountain - North Mountain Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "North Mountain - Magisa & Forza (Boss)",
+						"hosted_item": "magisa"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 3625,
+						"y": 630
+					}
+				]
+			},
+			{
+				"name": "Walse",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Walse - Walse Town Pot (Glasses)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 3432,
+						"y": 1850
+					},
+					{
+				"map": "world3",
+						"x": 3432,
+						"y": 1850
+					}
+				]
+			},
+			{
+				"name": "Walse Castle",
+				"sections": [
+					{
+						"name": "Walse - Walse Castle Chest (Elf Cape)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Walse Castle Pot (1000 (1))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Walse Castle Pot (Drag)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Walse Castle Pot (1000 (2))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Walse Castle Box (490)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Walse Castle Barrel (Tent)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Walse Castle Barrel (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse Kingdom - Shiva (Boss)",
+						"hosted_item": "shiva"
+					},
+					{
+						"name": "Walse - Shiva (Shiva)",
+						"visibility_rules":["chests_on"]
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 3375,
+						"y": 1850
+					},
+					{
+				"map": "world3",
+						"x": 3375,
+						"y": 1850
+					}
+				]
+			},
+			{
+				"name": "Walse Tower",
+				"access_rules": ["Walse_Tower_Key"],
+				"sections": [
+					{
+						"name": "Walse - Walse Tower Chest (Silk robe)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Walse Tower Chest (Maiden's Kiss)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Walse Tower Chest (Silver Armlet)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Walse Tower Chest (Ether)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse Tower - Galura (Boss)",
+						"hosted_item": "galura"
+					},
+					{
+						"name": "Walse - Water Crystal (Samurai)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Water Crystal (Berserker)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Water Crystal (MysticKnight)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Water Crystal (TimeMage)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Walse - Water Crystal (Summoner)",
+						"visibility_rules":["chests_on"]
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 3200,
+						"y": 1355
+					}
+				]
+			},
+			{
+				"name": "Karnak",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["ironclaw"],
+				"sections": [
+					{
+						"name": "Steamship - Karnak Town Barrel (Fire Rod)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 1392,
+						"y": 1200
+					},
+					{
+				"map": "world3",
+						"x": 1392,
+						"y": 1200
+					}
+				]
+			},
+			{
+				"name": "Steamship",
+				"access_rules": ["Steamship_Key"],
+				"sections": [
+					{
+						"name": "Steamship - Steamship Chest (Cabin)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Steamship - Steamship Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Steamship - Steamship Chest (Elixir 1)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Steamship - Steamship Chest (GrnBeret)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Steamship - Steamship Chest (Thief's Glove)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Steamship - Steamship Chest (Elixir 2)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Steamship - Steamship Chest (Mythril Glove)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Steamship - Steamship Chest (Elixir 3)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Steamship - Steamship Chest (Full Moon)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Steamship - LiquiFlame (Boss)",
+						"hosted_item": "liquidflame"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 1355,
+						"y": 1270
+					}
+				]
+			},
+			{
+				"name": "Karnak Castle",
+				"access_rules": ["liquidflame"],
+				"sections": [
+					{
+						"name": "Karnak - Karnak Castle Chest MIB 1 (Heavy Spear)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest MIB 2 (Thunder Scroll)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (2000 (1))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest MIB 3 (Elixir)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (Elixir (1))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (Elixir (2))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (2000 (2))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (Elixir (3))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (Elixir (4))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (Ribbon)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (Shuriken)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (2000 (3))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (Elixir (5))",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (Elf Cape)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Karnak Castle Chest (Guardian)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Sergeant & DeathClaw (Boss)",
+						"hosted_item": "ironclaw"
+					},
+					{
+						"name": "Karnak - Fire Crystal (Trainer)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Fire Crystal (Geomancer)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Karnak - Fire Crystal (Ninja)",
+						"visibility_rules":["chests_on"]
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 1335,
+						"y": 1220
+					}
+				]
+			},
+			{
+				"name": "Ancient Library",
+				"sections": [
+					{
+						"name": "Ancient Library - Ancient Library Chest (Ether)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ancient Library - Ifrit (Boss)",
+						"hosted_item": "ifrit"
+					},
+					{
+					"name": "Ancient Library - Ifrit (Ifrit)",
+					"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ancient Library - Ancient Library Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Ifrit's_Fire"]
+					},
+					{
+						"name": "Ancient Library - Ancient Library Chest (Stealth Suit)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Ifrit's_Fire"]
+					},
+					{
+						"name": "Ancient Library - Byblos (Boss)",
+						"access_rules": ["Ifrit's_Fire"],
+						"hosted_item": "byblos"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 1270,
+						"y": 1915
+					}
+				]
+			},
+			{
+				"name": "Jacole Ruins",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Jacole - Jacole Ruins Chest (Shuriken)"
+					},
+					{
+						"name": "Jacole - Jacole Ruins Chest (Tent)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 1225,
+						"y": 2840
+					}
+				]
+			},
+			{
+				"name": "Crescent Island",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Crescent Island - Life Song (Vitality)"
+					},
+					{
+						"name": "Crescent Island - Power Song from Crescent Town (Power)",
+						"access_rules": ["$W2"]
+					},
+					{
+						"name": "Crescent Island - Hero Song from Crescent Town (Hero)",
+						"access_rules": ["$W3, Mirage_Radar"]
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 3465,
+						"y": 3225
+					},
+					{
+				"map": "world3",
+						"x": 3465,
+						"y": 3225
+					}
+				]
+			},
+			{
+				"name": "Black Chocobo Forest",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Crescent Island - Black Choco Crystals (Bard)"
+					},
+					{
+						"name": "Crescent Island - Black Choco Crystals (Hunter)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 3400,
+						"y": 3350
+					}
+				]
+			},
+			{
+				"name": "Istory",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Istory Falls - Toad Event (Toad)"
+					},
+					{
+						"name": "Istory Falls - Love Song at Istory (Love)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 576,
+						"y": 664
+					},
+					{
+				"map": "world3",
+						"x": 576,
+						"y": 664
+					}
+				]
+			},
+			{
+				"name": "Lix",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Lix - Temptation Song at Lix (Charm)"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 2795,
+						"y": 745
+					},
+					{
+				"map": "world3",
+						"x": 2795,
+						"y": 745
+					}
+				]
+			},
+			{
+				"name": "Desert",
+				"access_rules": ["SandwormBait"],
+				"sections": [
+					{
+						"name": "Desert of Shifting Sands - Sandworm (Boss)",
+						"hosted_item": "sandworm"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 730,
+						"y": 1760
+					}
+				]
+			},
+			{
+				"name": "Lonka Ruins",
+				"sections": [
+					{
+						"name": "Catapult - Crayclaw (Boss)",
+						"hosted_item": "crayclaw"
+					},
+					{
+						"name": "Ruined City - Ruined City Chest (Shuriken 1)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ruined City - Ruined City Chest (Shuriken 2)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ruined City - Ruined City Chest (Size)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Sol Cannon (Boss)",
+						"access_rules": ["Adamantite"],
+						"hosted_item": "solcannon"
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Golden Armor)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Elixir)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Golden Shield)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Hi-Potion)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (5000)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Shuriken)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Ancient Sword)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Full Moon)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Power Wrist)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Ether)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - ArchaeAvis (Boss)",
+						"access_rules": ["Adamantite"],
+						"hosted_item": "archaeavis"
+					},
+					{
+						"name": "Flying Lonka Ruins - Earth Crystal (Samurai)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Earth Crystal (Dragoon)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Earth Crystal (Chemist)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
+						"name": "Flying Lonka Ruins - Earth Crystal (Dancer)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 1020,
+						"y": 2600
+					}
+				]
+			},
+			{
+				"name": "Tycoon Meteor",
+				"sections": [
+					{
+						"name": "Tycoon Castle - Tycoon Meteor Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Tycoon Meteor - AdamanTiMi (Boss)",
+						"hosted_item": "adamant"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 2810,
+						"y": 2280
+					}
+				]
+			},
+			{
+				"name": "Lonka Meteor",
+				"sections": [
+					{
+						"name": "Lonka Meteor - Chim.Brain (Boss)",
+						"access_rules": ["crayclaw"],
+						"hosted_item": "chimbrain"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 1000,
+						"y": 2570
+					}
+				]
+			},
+			{
+				"name": "Karnak Meteor",
+				"sections": [
+					{
+						"name": "Karnak Meteor - Titan (Boss)",
+						"hosted_item": "titan"
+					},
+					{
+						"name": "Karnak - Titan (Titan)",
+						"visibility_rules":["chests_on"]
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 1945,
+						"y": 1465
+					}
+				]
+			},
+			{
+				"name": "Walse Meteor",
+				"sections": [
+					{
+						"name": "Walse Meteor - Puroboros (Boss)",
+						"hosted_item": "puroboros"
+					}
+				],
+				"map_locations": [
+					{
+				"map": "world1",
+						"x": 3272,
+						"y": 1353
+					}
+				]
+			},
+			{
+				"name": "Exdeath's Castle",
+				"access_rules": ["$W2, Anti_Barrier"],
+				"sections": [
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Cabin)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Ether 1)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Exdeath's Castle - Gilgamesh 1 (Boss)",
+						"hosted_item": "gilga1"
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Diamond Shield)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Ice Shield)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Ether 2)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Elixir 1)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Gale Bow)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (IceBrand)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Kotetsu)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (9900)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Elixir 2)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (8000)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (DblLance)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Partisan)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath's Castle Chest (Pinwheel)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Carbunkle (Boss)",
+						"access_rules": ["Bracelet"],
+						"hosted_item": "carbunkle"
+					},
+					{
+						"name": "Exdeath's Castle - Carbuncle (Crbnkl)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Bracelet"]
+					},
+					{
+						"name": "Exdeath's Castle - Gilgamesh 4 (Boss)",
+						"access_rules": ["Bracelet"],
+						"hosted_item": "gilga4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 2570,
+						"y": 2490
+					}
+				]
+			},
+			{
+						"name": "Big Bridge",
+						"sections": [
+					{
+						"name": "Big Bridge - Gilgamesh 2 (Boss)",
+						"access_rules": ["$W2, Big_Bridge_Key"],
+						"hosted_item": "gilga2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 2320,
+						"y": 2487
+					}
+				]
+			},
+			{
+						"name": "Rugor",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W3"],
+						"sections": [
+					{
+						"name": "Rugor - Ribbon from girl in Rugor (Ribbon)"
+					}
+				],
+				"map_locations": [
+
+					{
+						"map": "world3",
+						"x": 2545,
+						"y": 887
+					}
+				]
+			},
+			{
+						"name": "Kuzar",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W2, 1st_Tablet, [2nd_Tablet], [3rd_Tablet], [4th_Tablet]",
+										"$W2, [1st_Tablet], 2nd_Tablet, [3rd_Tablet], [4th_Tablet]",
+										"$W2, [1st_Tablet], [2nd_Tablet], 3rd_Tablet, [4th_Tablet]",
+										"$W2, [1st_Tablet], [2nd_Tablet], [3rd_Tablet], 4th_Tablet"],
+						"sections": [
+					{
+						"name": "Kuzar - 12 Kuzar Events (Assassin)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Apollo's Harp)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Excalibur)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Flame Whip)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Earth Bell)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Holy Lance)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Masamune)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Wizard Rod)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Rune Axe)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Sage's Staff)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Hardened Dagger)"
+					},
+					{
+						"name": "Kuzar - 12 Kuzar Events (Yoichi Bow)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 2400,
+						"y": 1320
+					},
+					{
+						"map": "world3",
+						"x": 2400,
+						"y": 1320
+					}
+				]
+			},
+			{
+						"name": "Moogle Waterway",
+						"access_rules": ["$W2"],
+						"sections": [
+					{
+						"name": "Moogle Village - Moogle Cave Chest (4400)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Moogle Village - Moogle Cave Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Moogle Waterway - Tyrasaurus (Boss)",
+						"hosted_item": "tyrasaurus"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 2913,
+						"y": 1280
+					}
+				]
+			},
+			{
+						"name": "Moogle Village",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W2, Moogle_Suit"],
+						"sections": [
+					{
+						"name": "Moogle Village - Moogle Village Chest (Cabin)"
+					},
+					{
+						"name": "Moogle Village - Moogle Village Chest (Dancing Dagger)"
+					},
+					{
+						"name": "Moogle Village - Moogle Village Chest (1)"
+					},
+					{
+						"name": "Moogle Village - Moogle Village Chest (10000)"
+					},
+					{
+						"name": "Moogle Village - Moogle Village Chest (Phoenix Down)"
+					},
+					{
+						"name": "Moogle Village - Moogle Village Chest (Ether)"
+					},
+					{
+						"name": "Moogle Village - Moogle Village Chest (Elf Cape)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 3510,
+						"y": 725
+					}
+				]
+			},
+			{
+						"name": "Bal Castle",
+						"access_rules": ["$W2"],
+						"sections": [
+					{
+						"name": "Bal Castle - Bal Castle Chest (Angel Gwn)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Bal Castle - Bal Castle Chest (Hero Drink)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Bal Castle - Bal Castle Chest (Exit)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Bal Castle - Moat Item (Epee)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Bal Castle - Shop Backdoor (Lamia Harp)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Bal Castle - Abductor (Boss)",
+						"hosted_item": "abductor"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 1360,
+						"y": 2805
+					},
+					{
+						"map": "world3",
+						"x": 1360,
+						"y": 2805
+					}
+				]
+			},
+			{
+						"name": "Kelb",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W2"],
+						"sections": [
+					{
+						"name": "Kelb - CornaJar at Kelb (CornaJar)",
+						"access_rules": ["Trainer_Crystal", "Catch_Ability"]
+					},
+					{
+						"name": "Kelb - Requiem Song at Kelb (Requiem)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 1336,
+						"y": 2360
+					},
+					{
+						"map": "world3",
+						"x": 1336,
+						"y": 2360
+					}
+				]
+			},
+			{
+						"name": "Hiryuu Valley",
+						"access_rules": ["$W2"],
+						"sections": [
+					{
+						"name": "Hiryuu Valley - Hiryuu Valley Chest (5000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Hiryuu Valley - Hiryuu Valley Chest (Cabin)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Hiryuu Valley - Hiryuu Valley Skull (Bone Mail)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Hiryuu Valley - Hiryuu Valley Chest (7000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Hiryuu Valley - Hiryuu Valley Chest (Hypno Helm)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Hiryuu Valley - Hiryuu Valley Chest (Air Blade)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Hiryuu Valley - Hiryuu Valley Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Hiryuu Valley - HiryuuPlant (Boss)",
+						"hosted_item": "hiryuuplant"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 1290,
+						"y": 2170
+					}
+				]
+			},
+			{
+						"name": "Surgate Castle",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W2"],
+						"sections": [
+					{
+						"name": "Surgate Castle - Surgate Castle Chest (5000)"
+					},
+					{
+						"name": "Surgate Castle - Surgate Castle Chest (Float)"
+					},
+					{
+						"name": "Surgate Castle - Speed Song at Surgate (Speed)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 1230,
+						"y": 1765
+					},
+					{
+						"map": "world3",
+						"x": 1230,
+						"y": 1765
+					}
+				]
+			},
+			{
+						"name": "Zeza's Fleet",
+						"sections": [
+					{
+						"name": "Zeza Fleet - Gilgamesh 3 & Enkidou (Boss)",
+						"access_rules": ["$W2, Hiryuu_Call"],
+						"hosted_item": "gilgaenki"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 2855,
+						"y": 2620
+					}
+				]
+			},
+			{
+						"name": "Barrier Tower",
+						"access_rules": ["$W2, Submarine_Key"],
+						"sections": [
+					{
+						"name": "Barrier Tower - Barrier Tower Chest MIB 1 (Drain Sword)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Barrier Tower - Barrier Tower Chest (9000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Barrier Tower - Barrier Tower Chest (18000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Barrier Tower - Barrier Tower Chest MIB 2 (Gold Hairpin)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Barrier Tower - Atmos (Boss)",
+						"hosted_item": "atomos"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 2680,
+						"y": 2590
+					}
+				]
+			},
+			{
+						"name": "Mua",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W2"],
+						"sections": [
+					{
+						"name": "Mua - Mua Town Barrel (Guardian)"
+					},
+					{
+						"name": "Mua - Brave Blade (Brave Blade)"
+					},
+					{
+						"name": "Mua - Chicken Knife (Chicken Knife)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 370,
+						"y": 1830
+					},
+					{
+						"map": "world3",
+						"x": 370,
+						"y": 1830
+					}
+				]
+			},
+			{
+						"name": "Mua Forest",
+						"access_rules": ["$W2, Elder_Branch"],
+						"sections": [
+					{
+						"name": "Mua - Mua Forest Chest (2500)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (Ether)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (4900)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (9500)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (Soot)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (Flametongue)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Aegis Shield Chest (Aegis Shield)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (Cabin)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (Giant Drink)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (Elixir)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua - Mua Forest Chest (Morning Star)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Mua Forest - Guardians (Boss)",
+						"hosted_item": "guardian"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 905,
+						"y": 1945
+					}
+				]
+			},
+			{
+						"name": "Tule Pass",
+						"access_rules": ["$W3"],
+						"sections": [
+					{
+						"name": "Tule Pass - Antlion (Boss)",
+						"hosted_item": "antlion"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 1945,
+						"y": 1420
+					}
+				]
+			},
+			{
+						"name": "Pyramid",
+						"access_rules": ["$W3, Pyramid_Page"],
+						"sections": [
+					{
+						"name": "Pyramid - Pyramid Chest (Elixir 1)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Elixir 2)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest MIB 1 (Black Robe)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Thornlet)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest MIB 2 (DarkMatter)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest MIB 3 (Crystal Armor)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Cursed Ring)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Ice Shield)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Flame Shield)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (DarkMatter 1)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (White Robe)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (DarkSuit)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (DarkMatter 2)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (DarkMatter 3)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (DarkMatter 4)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (9000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (8000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Earth Hammer)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (10000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Cabin)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Elixir 3)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (12000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (DarkMatter 5)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Elixir 4)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (DarkMatter 6)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Guard Ring)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Ribbon)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Chest (Gold Hairpin)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Pyramid Top (Pyramid Tablet)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Pyramid - Merugene (Boss)",
+						"hosted_item": "merugene"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 712,
+						"y": 1962
+					}
+				]
+			},
+			{
+						"name": "Istory Falls",
+						"access_rules": ["$W3, Falls_Page, Submarine_Key"],
+						"sections": [
+					{
+						"name": "Istory Falls - Istory Falls Chest (Ether)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (TurtleShell)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Air Knife)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Giant Drink)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (RuneEdge)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Guard Ring)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Wall Ring)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Enhancer)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (12000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Artemis Bow)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Pinwheel)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Aegis Shield)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Istory Falls Chest (Giant's Axe)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Leviathan (Boss)",
+						"hosted_item": "leviathan"
+					},
+					{
+						"name": "Istory Falls - Leviathan Esper (Levia)",
+						"visibility_rules":["chests_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 905,
+						"y": 715
+					}
+				]
+			},
+			{
+						"name": "Solitary Island",
+						"access_rules": ["$W3, Shrine_Page"],
+						"sections": [
+					{
+						"name": "Solitary Island - Solitary Island Chest (Ether 1)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (DragonFang)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (12000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (Hi-Potion)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (Protect Drink)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (BeastKiller)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest MIB 1 (RisingSun)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (Ether 2)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest MIB 2 (Guard Ring)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (Crystal Helm)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (9000)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (Elixir)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (DarkMatter)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Solitary Island Chest (Circlet)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Solitary Island - Stalker (Boss)",
+						"hosted_item": "stalker"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 2120,
+						"y": 2490
+					}
+				]
+			},
+			{
+						"name": "Great Trench",
+						"access_rules": ["$W3, Trench_Page, Submarine_Key"],
+						"sections": [
+					{
+						"name": "Great Trench - Great Trench Chest (Water Scroll)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Great Trench - Great Trench Chest (Flame Ring)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Great Trench - Great Trench Chest (DragonFang)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Great Trench - Great Trench Chest (Ether)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Great Trench - Great Trench Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Istory Falls - Great Trench Chest (Kaiser Knuckles)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Great Trench - Triton, Neregeid & Phobos (Boss)",
+						"hosted_item": "triton"
+					},
+					{
+						"name": "Great Trench - Meteo (Meteo)",
+						"visibility_rules":["chests_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 3625,
+						"y": 3055
+					}
+				]
+			},
+			{
+						"name": "Ancient Library (World 3)",
+						"sections": [
+					{
+						"name": "Ancient Library - Ancient Library Chest (Ether)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ancient Library - Ifrit (Boss)",
+						"hosted_item": "ifrit"
+					},
+					{
+						"name": "Ancient Library - Ifrit (Ifrit)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Ancient Library - Ancient Library Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Ifrit's_Fire"]
+					},
+					{
+						"name": "Ancient Library - Ancient Library Chest (Stealth Suit)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Ifrit's_Fire"]
+					},
+					{
+						"name": "Ancient Library - Byblos (Boss)",
+						"access_rules": ["Ifrit's_Fire"],
+						"hosted_item": "byblos"
+					},
+					{
+						"name": "Ancient Library - Magic Song at Ancient Library (Magic)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W3"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 1270,
+						"y": 1915
+					}
+				]
+			},
+			{
+						"name": "Mirage Village",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W3, Mirage_Radar"],
+						"sections": [
+					{
+						"name": "Mirage Village - Mirage Village Barrel (Thief Knife)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 2760,
+						"y": 3735
+					}
+				]
+			},
+			{
+						"name": "Above Istory Falls",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W3"],
+						"sections": [
+					{
+						"name": "Istory Falls - Top of the Falls (Magic Lamp)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 875,
+						"y": 690
+					}
+				]
+			},
+			{
+						"name": "North Mountain (World 3)",
+						"sections": [
+					{
+						"name": "North Mountain - North Mountain Chest (Soft)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "North Mountain - North Mountain Chest (Phoenix Down)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "North Mountain - Magisa & Forza (Boss)",
+						"hosted_item": "magisa"
+					},
+					{
+						"name": "North Mountain Upper - Bahamut (Boss)",
+						"access_rules": ["$W3, Mirage_Radar"],
+						"hosted_item": "bahamut"
+					},
+					{
+						"name": "Hiryuu Valley - Bahamut (Bahmut)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W3, Mirage_Radar"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 3625,
+						"y": 630
+					}
+				]
+			},
+			{
+						"name": "Underwater Walse Tower",
+						"access_rules": ["$W3, Submarine_Key"],
+						"sections": [
+					{
+						"name": "Walse Tower - GoGo (Boss)",
+						"hosted_item": "gogo"
+					},
+					{
+						"name": "Walse - Walse Tower Chest (GoGo)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 3240,
+						"y": 1420
+					}
+				]
+			},
+			{
+						"name": "Fork Tower",
+						"access_rules": ["$W3, guardian"],
+						"sections": [
+					{
+						"name": "Fork Tower - Fork Tower R. Chest (Hi-Potion)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Fork Tower - Fork Tower R. Chest (Defender Sword)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Fork Tower - Fork Tower L. Chest (Ether)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Fork Tower - Fork Tower L. Chest (Wonder Wand)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Fork Tower - Minotauros (Boss)",
+						"hosted_item": "minotaurus"
+					},
+					{
+						"name": "Fork Tower - Omniscient (Boss)",
+						"hosted_item": "omniscient"
+					},
+					{
+						"name": "Fork Tower - Fork Tower, two Magics (Holy)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Fork Tower - Fork Tower, two Magics (Flare)",
+						"visibility_rules":["chests_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 3305,
+						"y": 3210
+					}
+				]
+			},
+			{
+						"name": "Jacole Ruins (World 3)",
+						"sections": [
+					{
+						"name": "Jacole - Jacole Ruins Chest (Shuriken)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Jacole - Jacole Ruins Chest (Tent)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Bal Castle - Lone Wolf Chest (Thunder Whip)",
+						"visibility_rules":["chests_on"],
+						"access_rules": "$W3"
+					},
+					{
+						"name": "Bal Castle - Odin (Boss)",
+						"access_rules": ["$W3"],
+						"hosted_item": "odin"
+					},
+					{
+						"name": "Bal Castle - Odin (Odin)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W3"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 1225,
+						"y": 2840
+					}
+				]
+			},
+			{
+						"name": "Phoenix Tower",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$W3, Mirage_Radar"],
+						"sections": [
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (5000)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (Phoenix Down 1)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (10000)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (Phoenix Down 2)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (Phoenix Down 3)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (15000)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (20000)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (Phoenix Down 4)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (Avis Killer)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix Tower Pot (25000)"
+					},
+					{
+						"name": "Phoenix Tower - Phoenix (Phenix)"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 2984,
+						"y": 1419
+					}
+				]
+			},
+			{
+						"name": "Rift",
+						"access_rules": ["$W3, 1st_Tablet", "$W3, 2nd_Tablet", "$W3, 3rd_Tablet", "$W3, 4th_Tablet"],
+						"sections": [
+					{
+						"name": "Rift - Rift (Ruins) Chest (Ether)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Rift - Rift (Ruins) Chest (Cabin)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Rift - Rift (Ruins) Chest (Elixir 1)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Rift - Rift (Ruins) Chest (DarkMatter)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Rift - Rift (Ruins) Chest (Elixir 2)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Rift - Rift (Ruins) Chest (Drain Sword)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Rift - Rift (Forest) Chest (DragonFang)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS2"]
+					},
+					{
+						"name": "Rift - Rift (Forest) Chest (Ribbon)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS2"]
+					},
+					{
+						"name": "Rift - Rift (Forest) Chest (Enhancer)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS2"]
+					},
+					{
+						"name": "Rift - Rift (Forest) Chest (Lillith Rod)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS2"]
+					},
+					{
+						"name": "Rift - Rift (Cave) Chest (Angel Ring)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS2"]
+					},
+					{
+						"name": "Rift - Rift (Cave) Chest (Coral Ring)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS2"]
+					},
+					{
+						"name": "Rift - Rift (Castle) Chest (Thor Hammer)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS3"]
+					},
+					{
+						"name": "Rift - Rift (Castle) Chest (Running Shoes)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS3"]
+					},
+					{
+						"name": "Rift - Rift (Castle) Chest (Red Shoes)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS3"]
+					},
+					{
+						"name": "Rift - Rift (Castle) Chest (Rainbow Dress)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS3"]
+					},
+					{
+						"name": "Rift - Rift (Castle) Chest (ManEater)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["$TABLETS3"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 3233,
+						"y": 2119
+					}
+				]
+			},
+			{
+						"name": "Void",
+						"access_rules": ["$W3, 1st_Tablet, 2nd_Tablet, 3rd_Tablet, 4th_Tablet"],
+						"sections": [
+					{
+						"name": "Void - The Void Chest (Pinwheel 1)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Void - The Void Chest (Pinwheel 2)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Void - The Void Chest (Elixir)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Void - The Void Chest (Ragnarok)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "Void - The Void Chest (Pinwheel 3)",
+						"visibility_rules":["chests_on"]
+					},
+					{
+						"name": "ExDeath",
+						"hosted_item": "exdeath"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 3353,
+						"y": 2119
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,15 @@
+﻿{
+  "name": "FFV Career Day AP",
+  "game_name": "Final Fantasy V: Career Day",
+  "package_version": "1.0.0.0",
+  "package_uid": "careerdayap",
+  "author": "Seto10987",
+  "variants":
+		{
+			"map":{
+				"display_name": "Career Day AP Autotracker",
+				"flags": [ "ap" ]
+			}
+		}
+
+}

@@ -1,0 +1,785 @@
+[
+  {
+    "name": "Job Crystals",
+    "type": "toggle",
+    "allow_disabled": false,
+    "img": "images/jobs/job_label.png",
+    "codes": "Job_Label"
+  },
+  {
+    "name": "Freelancer Job",
+    "type": "toggle",
+    "img": "images/jobs/freelancer_job.png",
+    "codes": "Freelancer_Crystal"
+  },
+  {
+    "name": "Knight Job",
+    "type": "toggle",
+    "img": "images/jobs/knight_job.png",
+    "codes": "Knight_Crystal"
+  },
+  {
+    "name": "Monk Job",
+    "type": "toggle",
+    "img": "images/jobs/monk_job.png",
+    "codes": "Monk_Crystal"
+  },
+  {
+    "name": "Thief Job",
+    "type": "toggle",
+    "img": "images/jobs/thief_job.png",
+    "codes": "Thief_Crystal"
+  },
+  {
+    "name": "Dragoon Job",
+    "type": "toggle",
+    "img": "images/jobs/dragoon_job.png",
+    "codes": "Dragoon_Crystal"
+  },
+  {
+    "name": "Ninja Job",
+    "type": "toggle",
+    "img": "images/jobs/ninja_job.png",
+    "codes": "Ninja_Crystal"
+  },
+  {
+    "name": "Samurai Job",
+    "type": "toggle",
+    "img": "images/jobs/samurai_job.png",
+    "codes": "Samurai_Crystal"
+  },
+  {
+    "name": "Berserker Job",
+    "type": "toggle",
+    "img": "images/jobs/berserker_job.png",
+    "codes": "Berserker_Crystal"
+  },
+  {
+    "name": "Hunter Job",
+    "type": "toggle",
+    "img": "images/jobs/hunter_job.png",
+    "codes": "Hunter_Crystal"
+  },
+  {
+    "name": "Mystic Knight Job",
+    "type": "toggle",
+    "img": "images/jobs/mystic_knight_job.png",
+    "codes": "MysticKnight_Crystal"
+  },
+  {
+    "name": "White Mage Job",
+    "type": "toggle",
+    "img": "images/jobs/white_mage_job.png",
+    "codes": "WhiteMage_Crystal"
+  },
+  {
+    "name": "Black Mage Job",
+    "type": "toggle",
+    "img": "images/jobs/black_mage_job.png",
+    "codes": "BlackMage_Crystal"
+  },
+  {
+    "name": "Time Mage Job",
+    "type": "toggle",
+    "img": "images/jobs/time_mage_job.png",
+    "codes": "TimeMage_Crystal"
+  },
+  {
+    "name": "Summoner Job",
+    "type": "toggle",
+    "img": "images/jobs/summoner_job.png",
+    "codes": "Summoner_Crystal"
+  },
+  {
+    "name": "Blue Mage Job",
+    "type": "toggle",
+    "img": "images/jobs/blue_mage_job.png",
+    "codes": "BlueMage_Crystal"
+  },
+  {
+    "name": "Red Mage Job",
+    "type": "toggle",
+    "img": "images/jobs/red_mage_job.png",
+    "codes": "RedMage_Crystal"
+  },
+  {
+    "name": "Trainer Job",
+    "type": "toggle",
+    "img": "images/jobs/trainer_job.png",
+    "codes": "Trainer_Crystal"
+  },
+  {
+    "name": "Chemist Job",
+    "type": "toggle",
+    "img": "images/jobs/chemist_job.png",
+    "codes": "Chemist_Crystal"
+  },
+  {
+    "name": "Geomancer Job",
+    "type": "toggle",
+    "img": "images/jobs/geomancer_job.png",
+    "codes": "Geomancer_Crystal"
+  },
+  {
+    "name": "Bard Job",
+    "type": "toggle",
+    "img": "images/jobs/bard_job.png",
+    "codes": "Bard_Crystal"
+  },
+  {
+    "name": "Dancer Job",
+    "type": "toggle",
+    "img": "images/jobs/dancer_job.png",
+    "codes": "Dancer_Crystal"
+  },
+  {
+    "name": "Mimic Job",
+    "type": "toggle",
+    "img": "images/jobs/mimic_job.png",
+    "codes": "Mimic_Crystal"
+  },
+  {
+    "name": "Lv. 1 Abilties",
+    "type": "toggle",
+    "allow_disabled": false,
+    "img": "images/jobs/lv1_label.png",
+    "codes": "Lv1_Label"
+  },
+  {
+    "name": "Blank",
+    "type": "toggle",
+    "img": "images/jobs/blank.png",
+    "codes": "blank"
+  },
+  {
+    "name": "Cover Ability",
+    "type": "toggle",
+    "img": "images/jobs/cover.png",
+    "codes": "Cover_Ability"
+  },
+  {
+    "name": "BuildUp Ability",
+    "type": "toggle",
+    "img": "images/jobs/buildup.png",
+    "codes": "Buildup_Ability"
+  },
+  {
+    "name": "Jump Ability",
+    "type": "toggle",
+    "img": "images/jobs/jump.png",
+    "codes": "Jump_Ability"
+  },
+  {
+    "name": "Smoke Ability",
+    "type": "toggle",
+    "img": "images/jobs/smoke.png",
+    "codes": "Smoke_Ability"
+  },
+  {
+    "name": "SwdSlap Ability",
+    "type": "toggle",
+    "img": "images/jobs/swdslap.png",
+    "codes": "SwdSlap_Ability"
+  },
+  {
+    "name": "Berserk Ability",
+    "type": "toggle",
+    "img": "images/jobs/berserk.png",
+    "codes": "Berserk_Ability"
+  },
+  {
+    "name": "Animals Ability",
+    "type": "toggle",
+    "img": "images/jobs/animals.png",
+    "codes": "Animals_Ability"
+  },
+  {
+    "name": "Barrier Ability",
+    "type": "toggle",
+    "img": "images/jobs/barrier.png",
+    "codes": "Barrier_Ability"
+  },
+  {
+    "name": "White Lv. 1 Ability",
+    "type": "toggle",
+    "img": "images/jobs/white1.png",
+    "codes": "White_Lv.1_Ability"
+  },
+  {
+    "name": "Black Lv. 1 Ability",
+    "type": "toggle",
+    "img": "images/jobs/black1.png",
+    "codes": "Black_Lv.1_Ability"
+  },
+  {
+    "name": "Time Lv.1 Ability",
+    "type": "toggle",
+    "img": "images/jobs/time1.png",
+    "codes": "Time_Lv.1_Ability"
+  },
+  {
+    "name": "Summon Lv.1 Ability",
+    "type": "toggle",
+    "img": "images/jobs/summon1.png",
+    "codes": "Summon_Lv.1_Ability"
+  },
+  {
+    "name": "Observe Ability",
+    "type": "toggle",
+    "img": "images/jobs/observe.png",
+    "codes": "Observe_Ability"
+  },
+  {
+    "name": "Red Lv.1 Ability",
+    "type": "toggle",
+    "img": "images/jobs/red1.png",
+    "codes": "Red_Lv.1_Ability"
+  },
+  {
+    "name": "Tame Ability",
+    "type": "toggle",
+    "img": "images/jobs/tame.png",
+    "codes": "Tame_Ability"
+  },
+  {
+    "name": "Medicine Ability",
+    "type": "toggle",
+    "img": "images/jobs/medicine.png",
+    "codes": "Medicine_Ability"
+  },
+  {
+    "name": "Terrain Ability",
+    "type": "toggle",
+    "img": "images/jobs/terrain.png",
+    "codes": "Terrain_Ability"
+  },
+  {
+    "name": "Hide Ability",
+    "type": "toggle",
+    "img": "images/jobs/hide.png",
+    "codes": "Hide_Ability"
+  },
+  {
+    "name": "Flirt Ability",
+    "type": "toggle",
+    "img": "images/jobs/flirt.png",
+    "codes": "Flirt_Ability"
+  },
+  {
+    "name": "Mimic Ability",
+    "type": "toggle",
+    "img": "images/jobs/mimic.png",
+    "codes": "Mimic_Ability"
+  },
+  {
+    "name": "Lv. 2 Abilties",
+    "type": "toggle",
+    "allow_disabled": false,
+    "img": "images/jobs/lv2_label.png",
+    "codes": "Lv2_Label"
+  },
+  {
+    "name": "Brawl Ability",
+    "type": "toggle",
+    "img": "images/jobs/brawl.png",
+    "codes": "Brawl_Ability"
+  },
+  {
+    "name": "Escape Ability",
+    "type": "toggle",
+    "img": "images/jobs/escape.png",
+    "codes": "Escape_Ability"
+  },
+  {
+    "name": "Equip Spears Ability",
+    "type": "toggle",
+    "img": "images/jobs/spears.png",
+    "codes": "Equip_Spears_Ability"
+  },
+  {
+    "name": "Image Ability",
+    "type": "toggle",
+    "img": "images/jobs/image.png",
+    "codes": "Image_Ability"
+  },
+  {
+    "name": "GilToss Ability",
+    "type": "toggle",
+    "img": "images/jobs/giltoss.png",
+    "codes": "GilToss_Ability"
+  },
+  {
+    "name": "Equip Axes Ability",
+    "type": "toggle",
+    "img": "images/jobs/axes.png",
+    "codes": "Equip_Axes_Ability"
+  },
+  {
+    "name": "Aim Ability",
+    "type": "toggle",
+    "img": "images/jobs/aim.png",
+    "codes": "Aim_Ability"
+  },
+  {
+    "name": "MgcSwrd Lv.1 Ability",
+    "type": "toggle",
+    "img": "images/jobs/mgcswrd1.png",
+    "codes": "MgcSwrd_Lv.1_Ability"
+  },
+  {
+    "name": "White Lv. 2 Ability",
+    "type": "toggle",
+    "img": "images/jobs/white2.png",
+    "codes": "White_Lv.2_Ability"
+  },
+  {
+    "name": "Black Lv. 2 Ability",
+    "type": "toggle",
+    "img": "images/jobs/black2.png",
+    "codes": "Black_Lv.2_Ability"
+  },
+  {
+    "name": "Time Lv.2 Ability",
+    "type": "toggle",
+    "img": "images/jobs/time2.png",
+    "codes": "Time_Lv.2_Ability"
+  },
+  {
+    "name": "Summon Lv.2 Ability",
+    "type": "toggle",
+    "img": "images/jobs/summon2.png",
+    "codes": "Summon_Lv.2_Ability"
+  },
+  {
+    "name": "Red Lv.2 Ability",
+    "type": "toggle",
+    "img": "images/jobs/red2.png",
+    "codes": "Red_Lv.2_Ability"
+  },
+  {
+    "name": "Control Ability",
+    "type": "toggle",
+    "img": "images/jobs/control.png",
+    "codes": "Control_Ability"
+  },
+  {
+    "name": "Mix Ability",
+    "type": "toggle",
+    "img": "images/jobs/mix.png",
+    "codes": "Mix_Ability"
+  },
+  {
+    "name": "Equip Harps",
+    "type": "toggle",
+    "img": "images/jobs/harps.png",
+    "codes": "Equip_Harps_Ability"
+  },
+  {
+    "name": "Dance Ability",
+    "type": "toggle",
+    "img": "images/jobs/dance.png",
+    "codes": "Dance_Ability"
+  },
+  {
+    "name": "Lv. 3 Abilties",
+    "type": "toggle",
+    "allow_disabled": false,
+    "img": "images/jobs/lv3_label.png",
+    "codes": "Lv3_Label"
+  },
+  {
+    "name": "Dbl Grip Ability",
+    "type": "toggle",
+    "img": "images/jobs/dblgrip.png",
+    "codes": "Dbl_Grip_Ability"
+  },
+  {
+    "name": "Mantra Ability",
+    "type": "toggle",
+    "img": "images/jobs/mantra.png",
+    "codes": "Mantra_Ability"
+  },
+  {
+    "name": "DrgnSwd Ability",
+    "type": "toggle",
+    "img": "images/jobs/drgnswd.png",
+    "codes": "Drgnswd_Ability"
+  },
+  {
+    "name": "Preemptive Ability",
+    "type": "toggle",
+    "img": "images/jobs/preemptive.png",
+    "codes": "Preemptive_Ability"
+  },
+  {
+    "name": "Evade Ability",
+    "type": "toggle",
+    "img": "images/jobs/evade.png",
+    "codes": "Evade_Ability"
+  },
+  {
+    "name": "Equip Bows Ability",
+    "type": "toggle",
+    "img": "images/jobs/bows.png",
+    "codes": "Equip_Bows_Ability"
+  },
+  {
+    "name": "MgcSwrd Lv.2 Ability",
+    "type": "toggle",
+    "img": "images/jobs/mgcswrd2.png",
+    "codes": "MgcSwrd_Lv.2_Ability"
+  },
+  {
+    "name": "White Lv. 3 Ability",
+    "type": "toggle",
+    "img": "images/jobs/white3.png",
+    "codes": "White_Lv.3_Ability"
+  },
+  {
+    "name": "Black Lv. 3 Ability",
+    "type": "toggle",
+    "img": "images/jobs/black3.png",
+    "codes": "Black_Lv.3_Ability"
+  },
+  {
+    "name": "Time Lv.3 Ability",
+    "type": "toggle",
+    "img": "images/jobs/time3.png",
+    "codes": "Time_Lv.3_Ability"
+  },
+  {
+    "name": "Summon Lv.3 Ability",
+    "type": "toggle",
+    "img": "images/jobs/summon3.png",
+    "codes": "Summon_Lv.3_Ability"
+  },
+  {
+    "name": "Blue Ability",
+    "type": "toggle",
+    "img": "images/jobs/blue.png",
+    "codes": "Blue_Ability"
+  },
+  {
+    "name": "Red Lv.3 Ability",
+    "type": "toggle",
+    "img": "images/jobs/red3.png",
+    "codes": "Red_Lv.3_Ability"
+  },
+  {
+    "name": "Equip Whips Ability",
+    "type": "toggle",
+    "img": "images/jobs/whips.png",
+    "codes": "Equip_Whips_Ability"
+  },
+  {
+    "name": "Drink Ability",
+    "type": "toggle",
+    "img": "images/jobs/drink.png",
+    "codes": "Drink_Ability"
+  },
+  {
+    "name": "DmgFloor Ability",
+    "type": "toggle",
+    "img": "images/jobs/dmgfloor.png",
+    "codes": "DmgFloor_Ability"
+  },
+  {
+    "name": "Sing Ability",
+    "type": "toggle",
+    "img": "images/jobs/sing.png",
+    "codes": "Sing_Ability"
+  },
+  {
+    "name": "Equip Ribbon Ability",
+    "type": "toggle",
+    "img": "images/jobs/ribbon.png",
+    "codes": "Equip_Ribbon_Ability"
+  },
+  {
+    "name": "Lv. 4 Abilties",
+    "type": "toggle",
+    "allow_disabled": false,
+    "img": "images/jobs/lv4_label.png",
+    "codes": "Lv4_Label"
+  },
+  {
+    "name": "Equip Shield Ability",
+    "type": "toggle",
+    "img": "images/jobs/shield.png",
+    "codes": "Equip_Shield_Ability"
+  },
+  {
+    "name": "Counter Ability",
+    "type": "toggle",
+    "img": "images/jobs/counter.png",
+    "codes": "Counter_Ability"
+  },
+  {
+    "name": "Steal Ability",
+    "type": "toggle",
+    "img": "images/jobs/steal.png",
+    "codes": "Steal_Ability"
+  },
+  {
+    "name": "Throw Ability",
+    "type": "toggle",
+    "img": "images/jobs/throw.png",
+    "codes": "Throw_Ability"
+  },
+  {
+    "name": "Equip Katana Ability",
+    "type": "toggle",
+    "img": "images/jobs/katana.png",
+    "codes": "Equip_Katana_Ability"
+  },
+  {
+    "name": "X-Fight Ability",
+    "type": "toggle",
+    "img": "images/jobs/xfight.png",
+    "codes": "X-Fight_Ability"
+  },
+  {
+    "name": "MgcSwrd Lv.3 Ability",
+    "type": "toggle",
+    "img": "images/jobs/mgcswrd3.png",
+    "codes": "MgcSwrd_Lv.3_Ability"
+  },
+  {
+    "name": "White Lv. 4 Ability",
+    "type": "toggle",
+    "img": "images/jobs/white4.png",
+    "codes": "White_Lv.4_Ability"
+  },
+  {
+    "name": "Black Lv. 4 Ability",
+    "type": "toggle",
+    "img": "images/jobs/black4.png",
+    "codes": "Black_Lv.4_Ability"
+  },
+  {
+    "name": "Time Lv.4 Ability",
+    "type": "toggle",
+    "img": "images/jobs/time4.png",
+    "codes": "Time_Lv.4_Ability"
+  },
+  {
+    "name": "Summon Lv.4 Ability",
+    "type": "toggle",
+    "img": "images/jobs/summon4.png",
+    "codes": "Summon_Lv.4_Ability"
+  },
+  {
+    "name": "Analyze Ability",
+    "type": "toggle",
+    "img": "images/jobs/analyze.png",
+    "codes": "Analyze_Ability"
+  },
+  {
+    "name": "X-Magic Ability",
+    "type": "toggle",
+    "img": "images/jobs/xmagic.png",
+    "codes": "X-Magic_Ability"
+  },
+  {
+    "name": "Catch Ability",
+    "type": "toggle",
+    "img": "images/jobs/catch.png",
+    "codes": "Catch_Ability"
+  },
+  {
+    "name": "Pray_Ability",
+    "type": "toggle",
+    "img": "images/jobs/pray.png",
+    "codes": "Pray_Ability"
+  },
+  {
+    "name": "Lv. 5 Abilties",
+    "type": "toggle",
+    "allow_disabled": false,
+    "img": "images/jobs/lv5_label.png",
+    "codes": "Lv5_Label"
+  },
+  {
+    "name": "Equip Armor Ability",
+    "type": "toggle",
+    "img": "images/jobs/armor.png",
+    "codes": "Equip_Armor_Ability"
+  },
+  {
+    "name": "HP +10% Ability",
+    "type": "toggle",
+    "img": "images/jobs/hp10.png",
+    "codes": "HP_+10%_Ability"
+  },
+  {
+    "name": "Caution Ability",
+    "type": "toggle",
+    "img": "images/jobs/caution.png",
+    "codes": "Caution_Ability"
+  },
+  {
+    "name": "2-Wield Ability",
+    "type": "toggle",
+    "img": "images/jobs/2wield.png",
+    "codes": "2-Wield_Ability"
+  },
+  {
+    "name": "Slash Ability",
+    "type": "toggle",
+    "img": "images/jobs/slash.png",
+    "codes": "Slash_Ability"
+  },
+  {
+    "name": "MgcSwrd Lv.4 Ability",
+    "type": "toggle",
+    "img": "images/jobs/mgcswrd4.png",
+    "codes": "MgcSwrd_Lv.4_Ability"
+  },
+  {
+    "name": "White Lv. 5 Ability",
+    "type": "toggle",
+    "img": "images/jobs/white5.png",
+    "codes": "White_Lv.5_Ability"
+  },
+  {
+    "name": "Black Lv. 5 Ability",
+    "type": "toggle",
+    "img": "images/jobs/black5.png",
+    "codes": "Black_Lv.5_Ability"
+  },
+  {
+    "name": "Time Lv.5 Ability",
+    "type": "toggle",
+    "img": "images/jobs/time5.png",
+    "codes": "Time_Lv.5_Ability"
+  },
+  {
+    "name": "Summon Lv.5 Ability",
+    "type": "toggle",
+    "img": "images/jobs/summon5.png",
+    "codes": "Summon_Lv.5_Ability"
+  },
+  {
+    "name": "Revive Ability",
+    "type": "toggle",
+    "img": "images/jobs/revive.png",
+    "codes": "Revive_Ability"
+  },
+  {
+    "name": "Lv. 6 Abilties",
+    "type": "toggle",
+    "allow_disabled": false,
+    "img": "images/jobs/lv6_label.png",
+    "codes": "Lv6_Label"
+  },
+  {
+    "name": "Equip Sword Ability",
+    "type": "toggle",
+    "img": "images/jobs/swords.png",
+    "codes": "Equip_Swords_Ability"
+  },
+  {
+    "name": "HP +20% Ability",
+    "type": "toggle",
+    "img": "images/jobs/hp20.png",
+    "codes": "HP_+20%_Ability"
+  },
+  {
+    "name": "Mug Ability",
+    "type": "toggle",
+    "img": "images/jobs/mug.png",
+    "codes": "Mug_Ability"
+  },
+  {
+    "name": "MgcSwrd Lv.5 Ability",
+    "type": "toggle",
+    "img": "images/jobs/mgcswrd5.png",
+    "codes": "MgcSwrd_Lv.5_Ability"
+  },
+  {
+    "name": "White Lv. 6 Ability",
+    "type": "toggle",
+    "img": "images/jobs/white6.png",
+    "codes": "White_Lv.6_Ability"
+  },
+  {
+    "name": "Black Lv. 6 Ability",
+    "type": "toggle",
+    "img": "images/jobs/black6.png",
+    "codes": "Black_Lv.6_Ability"
+  },
+  {
+    "name": "Time Lv.6 Ability",
+    "type": "toggle",
+    "img": "images/jobs/time6.png",
+    "codes": "Time_Lv.6_Ability"
+  },
+  {
+    "name": "Conjure Ability",
+    "type": "toggle",
+    "img": "images/jobs/conjure.png",
+    "codes": "Conjure_Ability"
+  },
+  {
+    "name": "Lv. 7 Abilties",
+    "type": "toggle",
+    "allow_disabled": false,
+    "img": "images/jobs/lv7_label.png",
+    "codes": "Lv7_Label"
+  },
+  {
+    "name": "HP +30% Ability",
+    "type": "toggle",
+    "img": "images/jobs/hp30.png",
+    "codes": "HP_+30%_Ability"
+  },
+  {
+    "name": "Agility Ability",
+    "type": "toggle",
+    "img": "images/jobs/agility.png",
+    "codes": "Agility_Ability"
+  },
+  {
+    "name": "MgcSwrd Lv.6 Ability",
+    "type": "toggle",
+    "img": "images/jobs/mgcswrd6.png",
+    "codes": "MgcSwrd_Lv.6_Ability"
+  },
+  {
+    "name": "MP +10% Ability",
+    "type": "toggle",
+    "img": "images/jobs/mp10.png",
+    "codes": "MP_+10%_Ability"
+  },
+  {
+    "name": "MP +30% Ability",
+    "type": "toggle",
+    "img": "images/jobs/mp30.png",
+    "codes": "MP_+30%_Ability"
+  },
+  {
+    "name": "Equip Rods Ability",
+    "type": "toggle",
+    "img": "images/jobs/rods.png",
+    "codes": "Equip_Rods_Ability"
+  },
+  {
+    "name": "Extra",
+    "type": "toggle",
+    "allow_disabled": false,
+    "img": "images/jobs/Extra_Label.png",
+    "codes": "Unlearnable_Label"
+  },
+  {
+    "name": "Kick Ability",
+    "type": "toggle",
+    "img": "images/jobs/kick.png",
+    "codes": "Kick_Ability"
+  },
+  {
+    "name": "Ribbon",
+    "type": "toggle",
+    "img": "images/jobs/kick.png",
+    "codes": "Ribbon_Item"
+  }
+]

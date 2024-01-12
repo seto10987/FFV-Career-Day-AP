@@ -1,0 +1,44 @@
+{
+    "item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": "50",
+                "item_margin": "1,2",
+                "rows": [
+                    ["1st_Tablet", "2nd_Tablet", "3rd_Tablet", "4th_Tablet"],
+                    ["Pyramid_Page", "Shrine_Page", "Trench_Page", "Falls_Page"],
+                    ["Walse_Tower_Key", "Steamship_Key", "Submarine_Key", "Big_Bridge_Key"],
+                    ["Adamantite", "Elder_Branch", "Hiryuu_Call", "Bracelet"],
+                    ["Anti_Barrier", "Ifrit's_Fire", "Moogle_Suit", "SandwormBait"],
+                    ["Mirage_Radar", "", "chests", "worlds"]
+                ]
+            }
+        ]
+    },
+    "boss_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_margin": "1,2",
+                "rows": [
+                    ["wingraptorx", "karlibosx", "sirenx", "magisax", "galurax", "shivax"],
+                    ["liquidflamex", "ironclawx", "ifritx", "byblosx", "sandwormx", "adamantx"],
+                    ["solcannonx", "archaeavisx", "crayclawx", "chimbrainx", "titanx", "puroborosx"],
+                    ["tyrasaurusx", "abductorx", "hiryuuplantx", "guardianx", "atomosx", "carbunklex"],
+                    ["gilga1x", "gilga2x", "gilgaenkix", "gilga4x", "antlionx", "gargoylex"],
+                    ["merugenex", "stalkerx", "leviathanx", "tritonx", "omniscientx", "minotaurusx"],
+                    ["gogox", "odinx", "bahamutx", "ramuhx", "shoatx", "golemx"],
+                    ["calofisterix", "apandax", "apocalypsex", "catastrophx", "halicarnasox", "twintaniax"],
+                    ["necrophobex"]
+                ]
+            }
+        ]
+    }
+}
