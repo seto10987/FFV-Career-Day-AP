@@ -51,6 +51,19 @@ function onClear(slot_data)
         end
     end
     print(dump_table(SLOT_DATA))
+    if SLOT_DATA == nil then
+        return
+    end
+	
+	PLAYER_ID = Archipelago.PlayerNumber or -1
+	TEAM_NUMBER = Archipelago.TeamNumber or 0
+
+        if slot_data["world_lock"] then
+            Tracker:FindObjectForCode("worlds").CurrentStage = tonumber(slot_data["world_lock"])
+        end
+        if slot_data["progression_checks"] then
+            Tracker:FindObjectForCode("chests").CurrentStage = tonumber(slot_data["progression_checks"])
+        end
 
 end
 -- called when an item gets collected

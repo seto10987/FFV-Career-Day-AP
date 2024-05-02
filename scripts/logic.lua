@@ -17,7 +17,7 @@ function ExDeath()
 end
 function W3()
     return
-    has ("$ExDeath") or has ("world3")
+    has ("exdeathw2") or has ("world3")
 end
 function TABLETS1()
     return

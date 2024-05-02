@@ -126,21 +126,27 @@
     "codes": "Mirage_Radar"
   },
   {
+    "name": "ExDeath W2",
+    "type": "toggle",
+    "img": "images/bosses/exdeath.png",
+    "codes": "exdeathw2"
+  },
+  {
     "name": "Treasure Chests",
     "codes": "chests",
     "type": "progressive",
     "allow_disabled":false,
     "loop":true,
-    "initial_stage_idx": 0,
+    "initial_stage_idx": 1,
     "stages": [
-      {
-        "img": "images/items/show.png",
-        "codes": "chests_on",
-        "inherit_codes":false
-      },
       {
         "img": "images/items/hide.png",
         "codes": "chests_off",
+        "inherit_codes":false
+      },
+      {
+        "img": "images/items/show.png",
+        "codes": "chests_on",
         "inherit_codes":false
 	    }
     ]

@@ -285,7 +285,7 @@
 						"name": "Carwen - Carwen Pot (1000)"
 					},
 					{
-						"name": "Carwen - Lone Wolf Barrel (Cabin)"
+						"name": "Carwen - Barrel (Cabin)"
 					}
 				],
 				"map_locations": [
@@ -378,7 +378,7 @@
 						"visibility_rules":["chests_on"]
 					},
 					{
-						"name": "Walse Kingdom - Shiva (Boss)",
+						"name": "Walse Castle - Shiva (Boss)",
 						"hosted_item": "shiva"
 					},
 					{
@@ -424,7 +424,7 @@
 						"hosted_item": "galura"
 					},
 					{
-						"name": "Walse - Water Crystal (Samurai)",
+						"name": "Walse - Water Crystal (RedMage)",
 						"visibility_rules":["chests_on"]
 					},
 					{
@@ -458,7 +458,7 @@
 				"access_rules": ["ironclaw"],
 				"sections": [
 					{
-						"name": "Steamship - Karnak Town Barrel (Fire Rod)"
+						"name": "Karnak - Karnak Town Barrel (Fire Rod)"
 					}
 				],
 				"map_locations": [
@@ -628,21 +628,21 @@
 						"hosted_item": "ifrit"
 					},
 					{
-					"name": "Ancient Library - Ifrit (Ifrit)",
-					"visibility_rules":["chests_on"]
+						"name": "Ancient Library - Ifrit (Ifrit)",
+						"visibility_rules":["chests_on"]
 					},
 					{
-						"name": "Ancient Library - Ancient Library Chest (Phoenix Down)",
+						"name": "Ancient Library Lower - Ancient Library Chest (Phoenix Down)",
 						"visibility_rules":["chests_on"],
 						"access_rules": ["Ifrit's_Fire"]
 					},
 					{
-						"name": "Ancient Library - Ancient Library Chest (Stealth Suit)",
+						"name": "Ancient Library Lower - Ancient Library Chest (Stealth Suit)",
 						"visibility_rules":["chests_on"],
 						"access_rules": ["Ifrit's_Fire"]
 					},
 					{
-						"name": "Ancient Library - Byblos (Boss)",
+						"name": "Ancient Library Lower - Byblos (Boss)",
 						"access_rules": ["Ifrit's_Fire"],
 						"hosted_item": "byblos"
 					}
@@ -656,14 +656,17 @@
 				]
 			},
 			{
-				"name": "Jacole Ruins",
+				"name": "Jacole Cave",
 				"visibility_rules":["chests_on"],
 				"sections": [
 					{
-						"name": "Jacole - Jacole Ruins Chest (Shuriken)"
+						"name": "Jacole - Jacole Cave Chest (Shuriken)"
 					},
 					{
-						"name": "Jacole - Jacole Ruins Chest (Tent)"
+						"name": "Jacole - Jacole Cave Chest (Tent)"
+					},
+					{
+						"name": "Bal Castle - Chest (Thunder Whip)"
 					}
 				],
 				"map_locations": [
@@ -730,7 +733,7 @@
 						"name": "Istory Falls - Toad Event (Toad)"
 					},
 					{
-						"name": "Istory Falls - Love Song at Istory (Love)"
+						"name": "Istory - Love Song at Istory (Love)"
 					}
 				],
 				"map_locations": [
@@ -864,6 +867,11 @@
 						"access_rules": ["Adamantite"]
 					},
 					{
+						"name": "Flying Lonka Ruins - Flying Lonka Ruins Chest (Cabin)",
+						"visibility_rules":["chests_on"],
+						"access_rules": ["Adamantite"]
+					},
+					{
 						"name": "Flying Lonka Ruins - ArchaeAvis (Boss)",
 						"access_rules": ["Adamantite"],
 						"hosted_item": "archaeavis"
@@ -901,7 +909,7 @@
 				"name": "Tycoon Meteor",
 				"sections": [
 					{
-						"name": "Tycoon Castle - Tycoon Meteor Chest (Phoenix Down)",
+						"name": "Tycoon Meteor - Tycoon Meteor Chest (Phoenix Down)",
 						"visibility_rules":["chests_on"]
 					},
 					{
@@ -975,15 +983,11 @@
 				"access_rules": ["$W2, Anti_Barrier"],
 				"sections": [
 					{
-						"name": "Exdeath's Castle - Exdeath's Castle Chest (Cabin)",
-						"visibility_rules":["chests_on"]
-					},
-					{
 						"name": "Exdeath's Castle - Exdeath's Castle Chest (Ether 1)",
 						"visibility_rules":["chests_on"]
 					},
 					{
-						"name": "Exdeath's Castle - Gilgamesh 1 (Boss)",
+						"name": "Exdeath's Castle Lower - Gilgamesh 1 (Boss)",
 						"hosted_item": "gilga1"
 					},
 					{
@@ -1065,6 +1069,11 @@
 						"name": "Exdeath's Castle - Gilgamesh 4 (Boss)",
 						"access_rules": ["Bracelet"],
 						"hosted_item": "gilga4"
+					},
+					{
+						"name": "Exdeath's Castle - Exdeath W2 (Boss)",
+						"access_rules": ["Bracelet"],
+						"hosted_item": "exdeathw2"
 					}
 				],
 				"map_locations": [
@@ -1428,10 +1437,7 @@
 						"name": "Mua - Mua Town Barrel (Guardian)"
 					},
 					{
-						"name": "Mua - Brave Blade (Brave Blade)"
-					},
-					{
-						"name": "Mua - Chicken Knife (Chicken Knife)"
+						"name": "Mua - Secret Area (Brave Blade - Chicken Knife)"
 					}
 				],
 				"map_locations": [
@@ -1837,7 +1843,7 @@
 						"visibility_rules":["chests_on"]
 					},
 					{
-						"name": "Istory Falls - Great Trench Chest (Kaiser Knuckles)",
+						"name": "Great Trench - Great Trench Chest (Kaiser Knuckles)",
 						"visibility_rules":["chests_on"]
 					},
 					{
@@ -1865,30 +1871,30 @@
 						"visibility_rules":["chests_on"]
 					},
 					{
-						"name": "Ancient Library - Ifrit (Boss)",
+						"name": "Ancient Library Lower - Ifrit (Boss)",
 						"hosted_item": "ifrit"
 					},
 					{
-						"name": "Ancient Library - Ifrit (Ifrit)",
+						"name": "Ancient Library Lower - Ifrit (Ifrit)",
 						"visibility_rules":["chests_on"]
 					},
 					{
-						"name": "Ancient Library - Ancient Library Chest (Phoenix Down)",
+						"name": "Ancient Library Lower - Ancient Library Chest (Phoenix Down)",
 						"visibility_rules":["chests_on"],
 						"access_rules": ["Ifrit's_Fire"]
 					},
 					{
-						"name": "Ancient Library - Ancient Library Chest (Stealth Suit)",
+						"name": "Ancient Library Lower - Ancient Library Chest (Stealth Suit)",
 						"visibility_rules":["chests_on"],
 						"access_rules": ["Ifrit's_Fire"]
 					},
 					{
-						"name": "Ancient Library - Byblos (Boss)",
+						"name": "Ancient Library Lower - Byblos (Boss)",
 						"access_rules": ["Ifrit's_Fire"],
 						"hosted_item": "byblos"
 					},
 					{
-						"name": "Ancient Library - Magic Song at Ancient Library (Magic)",
+						"name": "Ancient Library (World 3) - Magic Song at Ancient Library (Magic)",
 						"visibility_rules":["chests_on"],
 						"access_rules": ["$W3"]
 					}
@@ -1956,7 +1962,7 @@
 						"hosted_item": "bahamut"
 					},
 					{
-						"name": "Hiryuu Valley - Bahamut (Bahmut)",
+						"name": "North Mountain (World 3) - Bahamut (Bahmut)",
 						"visibility_rules":["chests_on"],
 						"access_rules": ["$W3, Mirage_Radar"]
 					}
@@ -2035,28 +2041,27 @@
 				]
 			},
 			{
-						"name": "Jacole Ruins (World 3)",
+						"name": "Jacole Cave (World 3)",
 						"sections": [
 					{
-						"name": "Jacole - Jacole Ruins Chest (Shuriken)",
+						"name": "Jacole - Jacole Cave Chest (Shuriken)",
 						"visibility_rules":["chests_on"]
 					},
 					{
-						"name": "Jacole - Jacole Ruins Chest (Tent)",
+						"name": "Jacole - Jacole Cave Chest (Tent)",
 						"visibility_rules":["chests_on"]
 					},
 					{
-						"name": "Bal Castle - Lone Wolf Chest (Thunder Whip)",
-						"visibility_rules":["chests_on"],
-						"access_rules": "$W3"
+						"name": "Bal Castle - Chest (Thunder Whip)",
+						"visibility_rules":["chests_on"]
 					},
 					{
-						"name": "Bal Castle - Odin (Boss)",
+						"name": "Bal Castle Lower - Odin (Boss)",
 						"access_rules": ["$W3"],
 						"hosted_item": "odin"
 					},
 					{
-						"name": "Bal Castle - Odin (Odin)",
+						"name": "Bal Castle Lower - Odin (Odin)",
 						"visibility_rules":["chests_on"],
 						"access_rules": ["$W3"]
 					}
