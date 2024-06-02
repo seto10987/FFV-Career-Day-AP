@@ -1,0 +1,10 @@
+{
+	"versions": [
+		{
+			"package_version": "3.0.0",
+			"download_url": "https://github.com/seto10987/FFV-Career-Day-AP/archive/refs/tags/v3.0.0.zip",
+			"sha256": "4e5ccfedaf8e5a5e408a5f60e1b56db7b3b2420c0bdc5019d69dc26df2c2bc1f",
+			"changelog": ["HUGE Update to everything"]
+		}
+	]
+}
