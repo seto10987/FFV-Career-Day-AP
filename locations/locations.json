@@ -2326,7 +2326,9 @@
 					{
 						"name": "Bal Castle Lower - Odin (Odin)",
 						"visibility_rules":["chests_on"],
-						"access_rules": ["$W3"]
+						"access_rules": ["$W3"],
+						"chest_unopened_img": "/images/icons/summon.png",
+						"chest_opened_img": "/images/icons/summon_opened.png"
 					}
 				],
 				"map_locations": [
@@ -2487,14 +2489,14 @@
 							"$has|tablet|4"]
 					},
 					{
-						"name": "Rift (2 Tablets) - Rift (Cave) Chest (Angel Ring)",
+						"name": "Rift (2 Tablets) - Rift (Cave) Chest (Coral Ring)",
 						"visibility_rules":["chests_on"],
 						"access_rules": ["$has|tablet|2",
 							"$has|tablet|3",
 							"$has|tablet|4"]
 					},
 					{
-						"name": "Rift (2 Tablets) - Rift (Cave) Chest (Coral Ring)",
+						"name": "Rift (2 Tablets) - Rift (Cave) Chest (Angel Ring)",
 						"visibility_rules":["chests_on"],
 						"access_rules": ["$has|tablet|2",
 							"$has|tablet|3",
