@@ -13,3 +13,17 @@ function W2()
     return
     has ("Adamantite") or has ("world2")
 end
+
+function has(item)
+    return Tracker:ProviderCountForCode(item) == 1
+end
+
+function has(item, amount)
+	local count = Tracker:ProviderCountForCode(item)
+	amount = tonumber(amount)
+	if amount >= count then
+	  return count > 0
+	else
+	  return count == amount
+	end
+end

@@ -1,0 +1,535 @@
+﻿[
+  {
+    "name": "wingraptor",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/wingraptor.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "wingraptor_hosted"
+  },
+  {
+    "name": "karlibos",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/karlibos.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "karlibos_hosted"
+  },
+  {
+    "name": "siren",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/siren.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "siren_hosted"
+  },
+  {
+    "name": "magisa",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/magisa.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "magisa_hosted"
+  },
+  {
+    "name": "galura",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/galura.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "galura_hosted"
+  },
+  {
+    "name": "liquidflame",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/liquidflame_alt.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "liquidflame_hosted"
+  },
+  {
+    "name": "ironclaw",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/ironclaw.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "ironclaw_hosted"
+  },
+  {
+    "name": "sandworm",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/sandworm.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "sandworm_hosted"
+  },
+  {
+    "name": "adamant",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/adamant.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "adamant_hosted"
+  },
+  {
+    "name": "shiva",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/shiva.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "shiva_hosted"
+  },
+  {
+    "name": "byblos",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/byblos.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "byblos_hosted"
+  },
+  {
+    "name": "solcannon",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/solcannon.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "solcannon_hosted"
+  },
+  {
+    "name": "archaeavis",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/archaeavis.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "archaeavis_hosted"
+  },
+  {
+    "name": "ifrit",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/ifrit.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "ifrit_hosted"
+  },
+  {
+    "name": "crayclaw",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/crayclaw.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "crayclaw_hosted"
+  },
+  {
+    "name": "chimbrain",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/chimbrain.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "chimbrain_hosted"
+  },
+  {
+    "name": "titan",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/titan.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "titan_hosted"
+  },
+  {
+    "name": "puroboros",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/puroboros.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "puroboros_hosted"
+  },
+  {
+    "name": "gilga1",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gilga1_alt.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "gilga1_hosted"
+  },
+  {
+    "name": "gilga2",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gilga2_alt.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "gilga2_hosted"
+  },
+  {
+    "name": "tyrasaurus",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/tyrasaurus_alt.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "tyrasaurus_hosted"
+  },
+  {
+    "name": "antlion",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/antlion.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "antlion_hosted"
+  },
+  {
+    "name": "gogo",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gogo.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "gogo_hosted"
+  },
+  {
+    "name": "abductor",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/abductor.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "abductor_hosted"
+  },
+  {
+    "name": "hiryuuplant",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/hiryuuplant_alt.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "hiryuuplant_hosted"
+  },
+  {
+    "name": "gilgaenki",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gilgaenki_alt.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "gilgaenki_hosted"
+  },
+  {
+    "name": "atomos",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/atomos.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "atomos_hosted"
+  },
+  {
+    "name": "carbunkle",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/carbunkle.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "carbunkle_hosted"
+  },
+  {
+    "name": "gilga4",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gilga4_alt.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "gilga4_hosted"
+  },
+  {
+    "name": "guardian",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/guardian_alt.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "guardian_hosted"
+  },
+  {
+    "name": "merugene",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/merugene.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "merugene_hosted"
+  },
+  {
+    "name": "omniscient",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/omniscient.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "omniscient_hosted"
+  },
+  {
+    "name": "minotaurus",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/minotaurus.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "minotaurus_hosted"
+  },
+  {
+    "name": "leviathan",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/leviathan.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "leviathan_hosted"
+  },
+  {
+    "name": "stalker",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/stalker.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "stalker_hosted"
+  },
+  {
+    "name": "odin",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/odin.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "odin_hosted"
+  },
+  {
+    "name": "triton",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/triton.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "triton_hosted"
+  },
+  {
+    "name": "bahamut",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/bahamut.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "bahamut_hosted"
+  },
+  {
+    "name": "gargoyle",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/gargoyle.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "gargoyle_hosted"
+  },
+  {
+    "name": "calofisteri",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/calofisteri.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "calofisteri_hosted"
+  },
+  {
+    "name": "apanda",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/apanda.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "apanda_hosted"
+  },
+  {
+    "name": "apocalypse",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/apocalypse.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "apocalypse_hosted"
+  },
+  {
+    "name": "catastroph",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/catastroph.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "catastroph_hosted"
+  },
+  {
+    "name": "halicarnaso",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/halicarnaso.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "halicarnaso_hosted"
+  },
+  {
+    "name": "twintania",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/twintania.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "twintania_hosted"
+  },
+  {
+    "name": "necrophobe",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/necrophobe.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "necrophobe_hosted"
+  },
+  {
+    "name": "ramuh",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/ramuh.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "ramuh_hosted"
+  },
+  {
+    "name": "golem",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/golem.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "golem_hosted"
+  },
+  {
+    "name": "shoat",
+    "type": "toggle",
+    "allow_disabled":false,
+    "loop": "true",
+    "img": "images/bosses/shoat.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "shoat_hosted"
+  },
+  {
+    "name": "ExDeath W2",
+    "type": "toggle",
+    "img": "images/bosses/exdeath.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "exdeathw2_hosted"
+  },
+  {
+    "name": "ExDeath",
+    "type": "toggle",
+    "img": "images/bosses/exdeath.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "exdeath_hosted"
+  },
+  {
+    "name": "Piano (Tule)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "piano_tule_hosted"
+  },
+  {
+    "name": "Piano (Carwen)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "piano_carwen_hosted"
+  },
+  {
+    "name": "Piano (Karnak)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "piano_karnak_hosted"
+  },
+  {
+    "name": "Piano (Jacole)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "piano_jacole_hosted"
+  },
+  {
+    "name": "Piano (Crescent)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "piano_crescent_hosted"
+  },
+  {
+    "name": "Piano (Mua)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "piano_mua_hosted"
+  },
+  {
+    "name": "Piano (Rugor)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "piano_rugor_hosted"
+  },
+  {
+    "name": "Piano (Mirage)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "piano_mirage_hosted"
+  }
+ ] 
+  

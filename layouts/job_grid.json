@@ -1,0 +1,758 @@
+{
+  "job_grid":
+  {
+  "type": "array",
+  "v_alignment": "stretch",
+  "margin": "0, 0",
+  "content": [
+    {
+    "type": "tabbed",
+    "dock": "top",
+    "content": [
+          {
+            "title": "Jobs",
+            "type": "array",
+            "orientation": "horizontal",
+            "margin": "0,0",
+            "content":
+            [
+              {
+                "type": "itemgrid",
+                "margin": "0, 0",
+                "item_margin": "2,-20",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                [
+                  [""],
+                  ["Knight_Crystal","Monk_Crystal","Thief_Crystal","Dragoon_Crystal","Ninja_Crystal"],
+                  ["Samurai_Crystal","Berserker_Crystal","Hunter_Crystal","MysticKnight_Crystal","WhiteMage_Crystal"],
+                  ["BlackMage_Crystal","TimeMage_Crystal","Summoner_Crystal","BlueMage_Crystal","RedMage_Crystal"],
+                  ["Trainer_Crystal","Chemist_Crystal","Geomancer_Crystal","Bard_Crystal","Dancer_Crystal"],
+                  ["Mimic_Crystal","Freelancer_Crystal"]
+                ]
+              }
+            ]
+          },
+          {
+          "title": "Abilities",
+            "type": "tabbed",
+            "content":
+            [
+              {
+                "title": "Freelancer",
+                "icon": "images/icons/freelancer.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "-5,-27",
+                "item_size": 75,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      ["Freelancer_Crystal"],
+                      [""],
+                      [""],
+                      ["Cover_Ability","blank","Dbl_Grip_Ability","Equip_Shield_Ability","Equip_Armor_Ability","Equip_Swords_Ability","blank","blank"],
+                      ["BuildUp_Ability","Brawl_Ability","Mantra_Ability","Counter_Ability","HP_+10%_Ability","HP_+20%_Ability","HP_+30%_Ability","Kick_Ability"],
+                      ["blank","Escape_Ability","blank","Steal_Ability","Caution_Ability","Mug_Ability","Agility_Ability","blank"],
+                      ["Jump_Ability","Equip_Spears_Ability","Drgnswd_Ability","blank","blank","blank","blank","blank"],
+                      ["Smoke_Ability","Image_Ability","Preemptive_Ability","blank","Throw_Ability","2-Wield_Ability","blank","blank"],
+                      ["SwdSlap_Ability","GilToss_Ability","Evade_Ability","Equip_Katana_Ability","Slash_Ability","blank","blank","blank"],
+                      ["Berserk_Ability","Equip_Axes_Ability","blank","blank","blank","blank","blank","blank"],
+                      ["Animals_Ability","Aim_Ability","Equip_Bows_Ability","X-Fight_Ability","blank","blank","blank","blank"],
+                      ["Barrier_Ability","MgcSwrd_Lv.1_Ability","MgcSwrd_Lv.2_Ability","MgcSwrd_Lv.3_Ability","MgcSwrd_Lv.4_Ability","MgcSwrd_Lv.5_Ability","MgcSwrd_Lv.6_Ability","blank"],
+                      ["White_Lv.1_Ability","White_Lv.2_Ability","White_Lv.3_Ability","White_Lv.4_Ability","White_Lv.5_Ability","White_Lv.6_Ability","MP_+10%_Ability","blank"],
+                      ["Black_Lv.1_Ability","Black_Lv.2_Ability","Black_Lv.3_Ability","Black_Lv.4_Ability","Black_Lv.5_Ability","Black_Lv.6_Ability","MP_+30%_Ability","blank"],
+                      ["Time_Lv.1_Ability","Time_Lv.2_Ability","Time_Lv.3_Ability","Time_Lv.4_Ability","Time_Lv.5_Ability","Time_Lv.6_Ability","Equip_Rods_Ability","blank"],
+                      ["Summon_Lv.1_Ability","Summon_Lv.2_Ability","Summon_Lv.3_Ability","Summon_Lv.4_Ability","Summon_Lv.5_Ability","Conjure_Ability","blank","blank"],
+                      ["Observe_Ability","blank","Blue_Ability","Analyze_Ability","blank","blank","blank","blank"],
+                      ["Red_Lv.1_Ability","Red_Lv.2_Ability","Red_Lv.3_Ability","X-Magic_Ability","blank","blank","blank","blank"],
+                      ["Tame_Ability","Control_Ability","Equip_Whips_Ability","Catch_Ability","blank","blank","blank","blank"],
+                      ["Medicine_Ability","Mix_Ability","Drink_Ability","Pray_Ability","Revive_Ability","blank","blank","blank"],
+                      ["Terrain_Ability","blank","DmgFloor_Ability","blank","blank","blank","blank","blank"],
+                      ["Hide_Ability","Equip_Harps_Ability","Sing_Ability","blank","blank","blank","blank","blank"],
+                      ["Flirt_Ability","Dance_Ability","Equip_Ribbon_Ability","blank","blank","blank","blank","blank"],
+                      ["Mimic_Ability","blank","blank","blank","blank","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Knight",
+                "icon": "images/icons/knight.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                    [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Knight_Crystal"],
+                      [""],
+                      [""],
+                      ["Cover_Ability","blank","Dbl_Grip_Ability","Equip_Shield_Ability"],
+                      [""],
+                      ["Equip_Armor_Ability","Equip_Swords_Ability","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Monk",
+                "icon": "images/icons/monk.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Monk_Crystal"],
+                      [""],
+                      [""],
+                      ["BuildUp_Ability","Brawl_Ability","Mantra_Ability","Counter_Ability"],
+                      [""],
+                      ["HP_+10%_Ability","HP_+20%_Ability","HP_+30%_Ability","Kick_Ability"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Thief",
+                "icon": "images/icons/thief.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Thief_Crystal"],
+                      [""],
+                      [""],
+                      ["blank","Escape_Ability","blank","Steal_Ability"],
+                      [""],
+                      ["Caution_Ability","Mug_Ability","Agility_Ability","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Dragoon",
+                "icon": "images/icons/dragoon.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Dragoon_Crystal"],
+                      [""],
+                      [""],
+                      ["Jump_Ability","Equip_Spears_Ability","Drgnswd_Ability","blank"],
+                      [""],
+                      ["blank","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Ninja",
+                "icon": "images/icons/ninja.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Ninja_Crystal"],
+                      [""],
+                      [""],
+                      ["Smoke_Ability","Image_Ability","Preemptive_Ability","blank"],
+                      [""],
+                      ["Throw_Ability","2-Wield_Ability","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Samurai",
+                "icon": "images/icons/samurai.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Samurai_Crystal"],
+                      [""],
+                      [""],
+                      ["SwdSlap_Ability","GilToss_Ability","Evade_Ability","Equip_Katana_Ability"],
+                      [""],
+                      ["Slash_Ability","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Berserker",
+                "icon": "images/icons/berserker.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Berserker_Crystal"],
+                      [""],
+                      [""],
+                      ["Berserk_Ability","Equip_Axes_Ability","blank","blank"],
+                      [""],
+                      ["blank","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Hunter",
+                "icon": "images/icons/hunter.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Hunter_Crystal"],
+                      [""],
+                      [""],
+                      ["Animals_Ability","Aim_Ability","Equip_Bows_Ability","X-Fight_Ability"],
+                      [""],
+                      ["blank","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Mystic Knight",
+                "icon": "images/icons/mystic_knight.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["MysticKnight_Crystal"],
+                      [""],
+                      [""],
+                      ["Barrier_Ability","MgcSwrd_Lv.1_Ability","MgcSwrd_Lv.2_Ability","MgcSwrd_Lv.3_Ability"],
+                      [""],
+                      ["MgcSwrd_Lv.4_Ability","MgcSwrd_Lv.5_Ability","MgcSwrd_Lv.6_Ability","blank"],
+                      [""],
+                      ["blank","Ice_Sword_Magic","Bolt_Sword_Magic"],
+                      ["Venom_Sword_Magic","Mute_Sword_Magic","Sleep_Sword_Magic"],
+                      ["Fire2_Sword_Magic","Ice2_Sword_Magic","Bolt2_Sword_Magic"],
+                      ["Drain_Sword_Magic","Break_Sword_Magic","Bio_Sword_Magic"],
+                      ["Fire3_Sword_Magic","Ice3_Sword_Magic","Bolt3_Sword_Magic"],
+                      ["Holy_Sword_Magic","Flare_Sword_Magic","Psych_Sword_Magic"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "White Mage",
+                "icon": "images/icons/white_mage.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["WhiteMage_Crystal"],
+                      [""],
+                      [""],
+                      ["White_Lv.1_Ability","White_Lv.2_Ability","White_Lv.3_Ability","White_Lv.4_Ability"],
+                      [""],
+                      ["White_Lv.5_Ability","White_Lv.6_Ability","MP_+10%_Ability","blank"],
+                      [""],
+                      ["Cure_White_Magic","Scan_White_Magic","Antdt_White_Magic"],
+                      ["Mute_White_Magic","Armor_White_Magic","Size_White_Magic"],
+                      ["Cure2_White_Magic","Life_White_Magic","Charm_White_Magic"],
+                      ["Image_White_Magic","Shell_White_Magic","Heal_White_Magic"],
+                      ["Cure3_White_Magic","Wall_White_Magic","Bersk_White_Magic"],
+                      ["Life2_White_Magic","Holy_White_Magic","Dispel_White_Magic"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Black Mage",
+                "icon": "images/icons/black_mage.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["BlackMage_Crystal"],
+                      [""],
+                      [""],
+                      ["Black_Lv.1_Ability","Black_Lv.2_Ability","Black_Lv.3_Ability","Black_Lv.4_Ability"],
+                      [""],
+                      ["Black_Lv.5_Ability","Black_Lv.6_Ability","MP_+30%_Ability","blank"],
+                      [""],
+                      ["Fire_Black_Magic","Ice_Black_Magic","Bolt_Black_Magic"],
+                      ["Venom_Black_Magic","Sleep_Black_Magic","Toad_Black_Magic"],
+                      ["Fire2_Black_Magic","Ice2_Black_Magic","Bolt2_Black_Magic"],
+                      ["Drain_Black_Magic","Break_Black_Magic","Bio_Black_Magic"],
+                      ["Fire3_Black_Magic","Ice3_Black_Magic","Bolt3_Black_Magic"],
+                      ["Flare_Black_Magic","Doom_Black_Magic","Psych_Black_Magic"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Time Mage",
+                "icon": "images/icons/time_mage.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["TimeMage_Crystal"],
+                      [""],
+                      [""],
+                      ["Time_Lv.1_Ability","Time_Lv.2_Ability","Time_Lv.3_Ability","Time_Lv.4_Ability"],
+                      [""],
+                      ["Time_Lv.5_Ability","Time_Lv.6_Ability","Equip_Rods_Ability","blank"],
+                      [""],
+                      ["blank","Slow_Time_Magic","Regen_Time_Magic"],
+                      ["Void_Time_Magic","Haste_Time_Magic","Float_Time_Magic"],
+                      ["Demi_Time_Magic","Stop_Time_Magic","blank"],
+                      ["Comet_Time_Magic","Slow2_Time_Magic","Reset_Time_Magic"],
+                      ["Qrter_Time_Magic","Hast2_Time_Magic","Old_Time_Magic"],
+                      ["Meteo_Time_Magic","Quick_Time_Magic","Xzone_Time_Magic"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Summoner",
+                "icon": "images/icons/summoner.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Summoner_Crystal"],
+                      [""],
+                      [""],
+                      ["Summon_Lv.1_Ability","Summon_Lv.2_Ability","Summon_Lv.3_Ability","Summon_Lv.4_Ability"],
+                      [""],
+                      ["Summon_Lv.5_Ability","Conjure_Ability","blank","blank"],
+                      [""],
+                      ["Chocob_Esper_Magic","Sylph_Esper_Magic","Remora_Esper_Magic"],
+                      ["Shiva_Esper_Magic","Ramuh_Esper_Magic","Ifrit_Esper_Magic"],
+                      ["Titan_Esper_Magic","Golem_Esper_Magic","Shoat_Esper_Magic"],
+                      ["Crbnkl_Esper_Magic","Syldra_Esper_Magic","Odin_Esper_Magic"],
+                      ["Phenix_Esper_Magic","Levia_Esper_Magic","Bahmut_Esper_Magic"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Blue Mage",
+                "icon": "images/icons/blue_mage.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["BlueMage_Crystal"],
+                      [""],
+                      [""],
+                      ["Observe_Ability","blank","Blue_Ability","Analyze_Ability"],
+                      [""],
+                      ["blank","blank","blank","blank"],
+                      [""],
+                      ["Condemn_Blue_Magic","Roulette_Blue_Magic","AquaRake_Blue_Magic"],
+                      ["L5_Doom_Blue_Magic","L4_Qrter_Blue_Magic","L2_Old_Blue_Magic"],
+                      ["L3_Flare_Blue_Magic","FrogSong_Blue_Magic","TinySong_Blue_Magic"],
+                      ["Flash_Blue_Magic","Time_Slip_Blue_Magic","MoonFlut_Blue_Magic"],
+                      ["DethClaw_Blue_Magic","Aero_Blue_Magic","Aero_2_Blue_Magic"],
+                      ["Aero_3_Blue_Magic","Emission_Blue_Magic","GblinPnch_Blue_Magic"],
+                      ["DrkShock_Blue_Magic","GuardOff_Blue_Magic","Fusion_Blue_Magic"],
+                      ["MindBlst_Blue_Magic","Vampire_Blue_Magic","Hammer_Blue_Magic"],
+                      ["BigGuard_Blue_Magic","Exploder_Blue_Magic","????_Blue_Magic"],
+                      ["Blowfish_Blue_Magic","WhiteWind_Blue_Magic","Missile_Blue_Magic"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Red Mage",
+                "icon": "images/icons/red_mage.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["RedMage_Crystal"],
+                      [""],
+                      [""],
+                      ["Red_Lv.1_Ability","Red_Lv.2_Ability","Red_Lv.3_Ability","X-Magic_Ability"],
+                      [""],
+                      ["blank","blank","blank","blank"],
+                      [""],
+                      ["Cure_White_Magic","Scan_White_Magic","Antdt_White_Magic"],
+                      ["Mute_White_Magic","Armor_White_Magic","Size_White_Magic"],
+                      ["Cure2_White_Magic","Life_White_Magic","Charm_White_Magic"],
+                      [""],
+                      ["Fire_Black_Magic","Ice_Black_Magic","Bolt_Black_Magic"],
+                      ["Venom_Black_Magic","Sleep_Black_Magic","Toad_Black_Magic"],
+                      ["Fire2_Black_Magic","Ice2_Black_Magic","Bolt2_Black_Magic"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Trainer",
+                "icon": "images/icons/trainer.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Trainer_Crystal"],
+                      [""],
+                      [""],
+                      ["Tame_Ability","Control_Ability","Equip_Whips_Ability","Catch_Ability"],
+                      [""],
+                      ["blank","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Chemist",
+                "icon": "images/icons/chemist.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Chemist_Crystal"],
+                      [""],
+                      [""],
+                      ["Medicine_Ability","Mix_Ability","Drink_Ability","Pray_Ability"],
+                      [""],
+                      ["Revive_Ability","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Geomancer",
+                "icon": "images/icons/geomancer.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Geomancer_Crystal"],
+                      [""],
+                      [""],
+                      ["Terrain_Ability","blank","DmgFloor_Ability","blank"],
+                      [""],
+                      ["blank","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Bard",
+                "icon": "images/icons/bard.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Bard_Crystal"],
+                      [""],
+                      [""],
+                      ["Hide_Ability","Equip_Harps_Ability","Sing_Ability","blank"],
+                      [""],
+                      ["blank","blank","blank","blank"],
+                      [""],
+                      ["Power_Song_Magic","Speed_Song_Magic","Vitality_Song_Magic","Magic_Song_Magic"],
+                      ["Hero_Song_Magic","Requiem_Song_Magic","Love_Song_Magic","Charm_Song_Magic"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Dancer",
+                "icon": "images/icons/dancer.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Dancer_Crystal"],
+                      [""],
+                      [""],
+                      ["Flirt_Ability","Dance_Ability","Equip_Ribbon_Ability","blank"],
+                      [""],
+                      ["blank","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Mimic",
+                "icon": "images/icons/mimic.png",
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content":
+                [
+                  {
+                "type": "itemgrid",
+                "item_margin": "2,-40",
+                "item_size": 100,
+                "h_alignment": "center",
+                "rows":
+                    [
+                      [""],
+                      [""],
+                      [""],
+                      [""],
+                      ["Mimic_Crystal"],
+                      [""],
+                      [""],
+                      ["Mimic_Ability","blank","blank","blank"],
+                      [""],
+                      ["blank","blank","blank","blank"]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

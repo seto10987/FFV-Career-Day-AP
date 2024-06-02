@@ -3,25 +3,25 @@
     "name": "tablet1",
     "type": "toggle",
     "img": "images/items/tablet1_alt.png",
-    "codes": "1st_Tablet"
+    "codes": "1st_Tablet, tablet"
   },
   {
     "name": "2nd Tablet",
     "type": "toggle",
     "img": "images/items/tablet2_alt.png",
-    "codes": "2nd_Tablet"
+    "codes": "2nd_Tablet, tablet"
   },
   {
     "name": "tablet3",
     "type": "toggle",
     "img": "images/items/tablet3_alt.png",
-    "codes": "3rd_Tablet"
+    "codes": "3rd_Tablet, tablet"
   },
   {
     "name": "tablet4",
     "type": "toggle",
     "img": "images/items/tablet4_alt.png",
-    "codes": "4th_Tablet"
+    "codes": "4th_Tablet, tablet"
   },
   {
     "name": "pyramid",
@@ -132,6 +132,12 @@
     "codes": "exdeathw2"
   },
   {
+    "name": "ExDeath",
+    "type": "toggle",
+    "img": "images/bosses/neo_exdeath.png",
+    "codes": "exdeath"
+  },
+  {
     "name": "Treasure Chests",
     "codes": "chests",
     "type": "progressive",
@@ -175,6 +181,64 @@
         "inherit_codes":true
 	    }
     ]
+  },
+  {
+    "name": "Piano (Tule)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "codes": "piano_tule"
+  },
+  {
+    "name": "Piano (Carwen)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "codes": "piano_carwen"
+  },
+  {
+    "name": "Piano (Karnak)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "codes": "piano_karnak"
+  },
+  {
+    "name": "Piano (Jacole)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "codes": "piano_jacole"
+  },
+  {
+    "name": "Piano (Crescent)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "codes": "piano_crescent"
+  },
+  {
+    "name": "Piano (Mua)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "codes": "piano_mua"
+  },
+  {
+    "name": "Piano (Rugor)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "codes": "piano_rugor"
+  },
+  {
+    "name": "Piano (Mirage)",
+    "type": "toggle",
+    "img": "images/icons/piano.png",
+    "codes": "piano_mirage"
+  },
+  {
+    "name": "Pianos",
+    "type": "consumable",
+    "img": "images/icons/piano.png",
+    "max_quantity": 8,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "codes": "piano_counter"
   }
  ] 
   

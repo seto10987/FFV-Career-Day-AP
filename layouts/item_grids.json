@@ -14,7 +14,7 @@
                     ["Walse_Tower_Key", "Steamship_Key", "Submarine_Key", "Big_Bridge_Key"],
                     ["Adamantite", "Elder_Branch", "Hiryuu_Call", "Bracelet"],
                     ["Anti_Barrier", "Ifrit's_Fire", "Moogle_Suit", "SandwormBait"],
-                    ["Mirage_Radar", "", "chests", "worlds"]
+                    ["Mirage_Radar", "piano_counter", "exdeathw2","exdeath"]
                 ]
             }
         ]
@@ -37,6 +37,20 @@
                     ["gogox", "odinx", "bahamutx", "ramuhx", "shoatx", "golemx"],
                     ["calofisterix", "apandax", "apocalypsex", "catastrophx", "halicarnasox", "twintaniax"],
                     ["necrophobex"]
+                ]
+            }
+        ]
+    },
+    "setting_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": "75",
+                "rows": [
+                    ["chests", "worlds"]
                 ]
             }
         ]

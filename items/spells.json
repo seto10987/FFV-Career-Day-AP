@@ -1,0 +1,734 @@
+[
+  {
+    "name": "Ice Sword",
+    "type": "toggle",
+    "img": "images/spells/ice_sword.png",
+    "codes": "Ice_Sword_Magic"
+  },
+  {
+    "name": "Bolt Sword",
+    "type": "toggle",
+    "img": "images/spells/bolt_sword.png",
+    "codes": "Bolt_Sword_Magic"
+  },
+  {
+    "name": "Venom Sword",
+    "type": "toggle",
+    "img": "images/spells/venom_sword.png",
+    "codes": "Venom_Sword_Magic"
+  },
+  {
+    "name": "Mute Sword",
+    "type": "toggle",
+    "img": "images/spells/mute_sword.png",
+    "codes": "Mute_Sword_Magic"
+  },
+  {
+    "name": "Sleep Sword",
+    "type": "toggle",
+    "img": "images/spells/sleep_sword.png",
+    "codes": "Sleep_Sword_Magic"
+  },
+  {
+    "name": "Fire2 Sword",
+    "type": "toggle",
+    "img": "images/spells/fire2_sword.png",
+    "codes": "Fire2_Sword_Magic"
+  },
+  {
+    "name": "Ice2 Sword",
+    "type": "toggle",
+    "img": "images/spells/ice2_sword.png",
+    "codes": "Ice2_Sword_Magic"
+  },
+  {
+    "name": "Bolt2 Sword",
+    "type": "toggle",
+    "img": "images/spells/bolt2_sword.png",
+    "codes": "Bolt2_Sword_Magic"
+  },
+  {
+    "name": "Drain Sword",
+    "type": "toggle",
+    "img": "images/spells/drain_sword.png",
+    "codes": "Drain_Sword_Magic"
+  },
+  {
+    "name": "Break Sword",
+    "type": "toggle",
+    "img": "images/spells/break_sword.png",
+    "codes": "Break_Sword_Magic"
+  },
+  {
+    "name": "Bio Sword",
+    "type": "toggle",
+    "img": "images/spells/bio_sword.png",
+    "codes": "Bio_Sword_Magic"
+  },
+  {
+    "name": "Fire3 sword",
+    "type": "toggle",
+    "img": "images/spells/fire3_sword.png",
+    "codes": "Fire3_Sword_Magic"
+  },
+  {
+    "name": "Ice3 Sword",
+    "type": "toggle",
+    "img": "images/spells/ice3_sword.png",
+    "codes": "Ice3_Sword_Magic"
+  },
+  {
+    "name": "Bolt3 Sword",
+    "type": "toggle",
+    "img": "images/spells/bolt3_sword.png",
+    "codes": "Bolt3_Sword_Magic"
+  },
+  {
+    "name": "Holy Sword",
+    "type": "toggle",
+    "img": "images/spells/holy_sword.png",
+    "codes": "Holy_Sword_Magic"
+  },
+  {
+    "name": "Flare Sword",
+    "type": "toggle",
+    "img": "images/spells/flare_sword.png",
+    "codes": "Flare_Sword_Magic"
+  },
+  {
+    "name": "Psych Sword",
+    "type": "toggle",
+    "img": "images/spells/psych_sword.png",
+    "codes": "Psych_Sword_Magic"
+  },
+  {
+    "name": "Cure",
+    "type": "toggle",
+    "img": "images/spells/cure.png",
+    "codes": "Cure_White_Magic"
+  },
+  {
+    "name": "Scan",
+    "type": "toggle",
+    "img": "images/spells/scan.png",
+    "codes": "Scan_White_Magic"
+  },
+  {
+    "name": "Antidote",
+    "type": "toggle",
+    "img": "images/spells/antidote.png",
+    "codes": "Antdt_White_Magic"
+  },
+  {
+    "name": "Mute",
+    "type": "toggle",
+    "img": "images/spells/mute.png",
+    "codes": "Mute_White_Magic"
+  },
+  {
+    "name": "Armor",
+    "type": "toggle",
+    "img": "images/spells/armor.png",
+    "codes": "Armor_White_Magic"
+  },
+  {
+    "name": "Size",
+    "type": "toggle",
+    "img": "images/spells/size.png",
+    "codes": "Size_White_Magic"
+  },
+  {
+    "name": "Cure 2",
+    "type": "toggle",
+    "img": "images/spells/cure2.png",
+    "codes": "Cure2_White_Magic"
+  },
+  {
+    "name": "Life",
+    "type": "toggle",
+    "img": "images/spells/life.png",
+    "codes": "Life_White_Magic"
+  },
+  {
+    "name": "Charm",
+    "type": "toggle",
+    "img": "images/spells/charm.png",
+    "codes": "Charm_White_Magic"
+  },
+  {
+    "name": "Image",
+    "type": "toggle",
+    "img": "images/spells/image.png",
+    "codes": "Image_White_Magic"
+  },
+  {
+    "name": "Shell",
+    "type": "toggle",
+    "img": "images/spells/shell.png",
+    "codes": "Shell_White_Magic"
+  },
+  {
+    "name": "Heal",
+    "type": "toggle",
+    "img": "images/spells/heal.png",
+    "codes": "Heal_White_Magic"
+  },
+  {
+    "name": "Cure 3",
+    "type": "toggle",
+    "img": "images/spells/cure3.png",
+    "codes": "Cure3_White_Magic"
+  },
+  {
+    "name": "Wall",
+    "type": "toggle",
+    "img": "images/spells/wall.png",
+    "codes": "Wall_White_Magic"
+  },
+  {
+    "name": "Beserk",
+    "type": "toggle",
+    "img": "images/spells/beserk.png",
+    "codes": "Bersk_White_Magic"
+  },
+  {
+    "name": "Life 2",
+    "type": "toggle",
+    "img": "images/spells/life2.png",
+    "codes": "Life2_White_Magic"
+  },
+  {
+    "name": "Holy",
+    "type": "toggle",
+    "img": "images/spells/holy.png",
+    "codes": "Holy_White_Magic"
+  },
+  {
+    "name": "Dispel",
+    "type": "toggle",
+    "img": "images/spells/dispel.png",
+    "codes": "Dispel_White_Magic"
+  },
+  {
+    "name": "Fire",
+    "type": "toggle",
+    "img": "images/spells/fire.png",
+    "codes": "Fire_Black_Magic"
+  },
+  {
+    "name": "Ice",
+    "type": "toggle",
+    "img": "images/spells/ice.png",
+    "codes": "Ice_Black_Magic"
+  },
+  {
+    "name": "Bolt",
+    "type": "toggle",
+    "img": "images/spells/bolt.png",
+    "codes": "Bolt_Black_Magic"
+  },
+  {
+    "name": "Venom",
+    "type": "toggle",
+    "img": "images/spells/venom.png",
+    "codes": "Venom_Black_Magic"
+  },
+  {
+    "name": "Sleep",
+    "type": "toggle",
+    "img": "images/spells/sleep.png",
+    "codes": "Sleep_Black_Magic"
+  },
+  {
+    "name": "Toad",
+    "type": "toggle",
+    "img": "images/spells/toad.png",
+    "codes": "Toad_Black_Magic"
+  },
+  {
+    "name": "Fire2",
+    "type": "toggle",
+    "img": "images/spells/fire2.png",
+    "codes": "Fire2_Black_Magic"
+  },
+  {
+    "name": "Ice2",
+    "type": "toggle",
+    "img": "images/spells/ice2.png",
+    "codes": "Ice2_Black_Magic"
+  },
+  {
+    "name": "Bolt2",
+    "type": "toggle",
+    "img": "images/spells/bolt2.png",
+    "codes": "Bolt2_Black_Magic"
+  },
+  {
+    "name": "Drain",
+    "type": "toggle",
+    "img": "images/spells/drain.png",
+    "codes": "Drain_Black_Magic"
+  },
+  {
+    "name": "Break",
+    "type": "toggle",
+    "img": "images/spells/break.png",
+    "codes": "Break_Black_Magic"
+  },
+  {
+    "name": "Bio",
+    "type": "toggle",
+    "img": "images/spells/bio.png",
+    "codes": "Bio_Black_Magic"
+  },
+  {
+    "name": "Fire3",
+    "type": "toggle",
+    "img": "images/spells/fire3.png",
+    "codes": "Fire3_Black_Magic"
+  },
+  {
+    "name": "Ice3",
+    "type": "toggle",
+    "img": "images/spells/ice3.png",
+    "codes": "Ice3_Black_Magic"
+  },
+  {
+    "name": "Bolt3",
+    "type": "toggle",
+    "img": "images/spells/bolt3.png",
+    "codes": "Bolt3_Black_Magic"
+  },
+  {
+    "name": "Flare",
+    "type": "toggle",
+    "img": "images/spells/flare.png",
+    "codes": "Flare_Black_Magic"
+  },
+  {
+    "name": "Doom",
+    "type": "toggle",
+    "img": "images/spells/doom.png",
+    "codes": "Doom_Black_Magic"
+  },
+  {
+    "name": "Psych",
+    "type": "toggle",
+    "img": "images/spells/psych.png",
+    "codes": "Psych_Black_Magic"
+  },
+  {
+    "name": "Slow",
+    "type": "toggle",
+    "img": "images/spells/slow.png",
+    "codes": "Slow_Time_Magic"
+  },
+  {
+    "name": "Regen",
+    "type": "toggle",
+    "img": "images/spells/regen.png",
+    "codes": "Regen_Time_Magic"
+  },
+  {
+    "name": "Void",
+    "type": "toggle",
+    "img": "images/spells/void.png",
+    "codes": "Void_Time_Magic"
+  },
+  {
+    "name": "Haste",
+    "type": "toggle",
+    "img": "images/spells/haste.png",
+    "codes": "Haste_Time_Magic"
+  },
+  {
+    "name": "Float",
+    "type": "toggle",
+    "img": "images/spells/float.png",
+    "codes": "Float_Time_Magic"
+  },
+  {
+    "name": "Demi",
+    "type": "toggle",
+    "img": "images/spells/demi.png",
+    "codes": "Demi_Time_Magic"
+  },
+  {
+    "name": "Stop",
+    "type": "toggle",
+    "img": "images/spells/stop.png",
+    "codes": "Stop_Time_Magic"
+  },
+  {
+    "name": "Comet",
+    "type": "toggle",
+    "img": "images/spells/comet.png",
+    "codes": "Comet_Time_Magic"
+  },
+  {
+    "name": "Slow2",
+    "type": "toggle",
+    "img": "images/spells/slow2.png",
+    "codes": "Slow2_Time_Magic"
+  },
+  {
+    "name": "Reset",
+    "type": "toggle",
+    "img": "images/spells/reset.png",
+    "codes": "Reset_Time_Magic"
+  },
+  {
+    "name": "Qrter",
+    "type": "toggle",
+    "img": "images/spells/quarter.png",
+    "codes": "Qrter_Time_Magic"
+  },
+  {
+    "name": "Hast2",
+    "type": "toggle",
+    "img": "images/spells/haste2.png",
+    "codes": "Hast2_Time_Magic"
+  },
+  {
+    "name": "Old",
+    "type": "toggle",
+    "img": "images/spells/old.png",
+    "codes": "Old_Time_Magic"
+  },
+  {
+    "name": "Meteo",
+    "type": "toggle",
+    "img": "images/spells/meteo.png",
+    "codes": "Meteo_Time_Magic"
+  },
+  {
+    "name": "Quick",
+    "type": "toggle",
+    "img": "images/spells/quick.png",
+    "codes": "Quick_Time_Magic"
+  },
+  {
+    "name": "XZone",
+    "type": "toggle",
+    "img": "images/spells/xzone.png",
+    "codes": "Xzone_Time_Magic"
+  },
+  {
+    "name": "Chocob",
+    "type": "toggle",
+    "img": "images/spells/choocobo.png",
+    "codes": "Chocob_Esper_Magic"
+  },
+  {
+    "name": "Sylph",
+    "type": "toggle",
+    "img": "images/spells/sylph.png",
+    "codes": "Sylph_Esper_Magic"
+  },
+  {
+    "name": "Remora",
+    "type": "toggle",
+    "img": "images/spells/remora.png",
+    "codes": "Remora_Esper_Magic"
+  },
+  {
+    "name": "Shiva",
+    "type": "toggle",
+    "img": "images/spells/shiva.png",
+    "codes": "Shiva_Esper_Magic"
+  },
+  {
+    "name": "Ramuh",
+    "type": "toggle",
+    "img": "images/spells/ramuh.png",
+    "codes": "Ramuh_Esper_Magic"
+  },
+  {
+    "name": "Ifrit",
+    "type": "toggle",
+    "img": "images/spells/ifrit.png",
+    "codes": "Ifrit_Esper_Magic"
+  },
+  {
+    "name": "Titan",
+    "type": "toggle",
+    "img": "images/spells/titan.png",
+    "codes": "Titan_Esper_Magic"
+  },
+  {
+    "name": "Golem",
+    "type": "toggle",
+    "img": "images/spells/golem.png",
+    "codes": "Golem_Esper_Magic"
+  },
+  {
+    "name": "Shoat",
+    "type": "toggle",
+    "img": "images/spells/shoat.png",
+    "codes": "Shoat_Esper_Magic"
+  },
+  {
+    "name": "Crbnkl",
+    "type": "toggle",
+    "img": "images/spells/carbuncle.png",
+    "codes": "Crbnkl_Esper_Magic"
+  },
+  {
+    "name": "Syldra",
+    "type": "toggle",
+    "img": "images/spells/syldra.png",
+    "codes": "Syldra_Esper_Magic"
+  },
+  {
+    "name": "Odin",
+    "type": "toggle",
+    "img": "images/spells/odin.png",
+    "codes": "Odin_Esper_Magic"
+  },
+  {
+    "name": "Phenix",
+    "type": "toggle",
+    "img": "images/spells/phoenix.png",
+    "codes": "Phenix_Esper_Magic"
+  },
+  {
+    "name": "Levia",
+    "type": "toggle",
+    "img": "images/spells/leviathan.png",
+    "codes": "Levia_Esper_Magic"
+  },
+  {
+    "name": "Bahmut",
+    "type": "toggle",
+    "img": "images/spells/bahamut.png",
+    "codes": "Bahmut_Esper_Magic"
+  },
+  {
+    "name": "Power",
+    "type": "toggle",
+    "img": "images/spells/power.png",
+    "codes": "Power_Song_Magic"
+  },
+  {
+    "name": "Speed",
+    "type": "toggle",
+    "img": "images/spells/speed.png",
+    "codes": "Speed_Song_Magic"
+  },
+  {
+    "name": "Vitality",
+    "type": "toggle",
+    "img": "images/spells/vitality.png",
+    "codes": "Vitality_Song_Magic"
+  },
+  {
+    "name": "Magic",
+    "type": "toggle",
+    "img": "images/spells/magic.png",
+    "codes": "Magic_Song_Magic"
+  },
+  {
+    "name": "Hero",
+    "type": "toggle",
+    "img": "images/spells/hero.png",
+    "codes": "Hero_Song_Magic"
+  },
+  {
+    "name": "Requiem",
+    "type": "toggle",
+    "img": "images/spells/requiem.png",
+    "codes": "Requiem_Song_Magic"
+  },
+  {
+    "name": "Love",
+    "type": "toggle",
+    "img": "images/spells/love.png",
+    "codes": "Love_Song_Magic"
+  },
+  {
+    "name": "Charm",
+    "type": "toggle",
+    "img": "images/spells/charm_song.png",
+    "codes": "Charm_Song_Magic"
+  },
+  {
+    "name": "Condemn",
+    "type": "toggle",
+    "img": "images/spells/condemn.png",
+    "codes": "Condemn_Blue_Magic"
+  },
+  {
+    "name": "Roulette",
+    "type": "toggle",
+    "img": "images/spells/roulette.png",
+    "codes": "Roulette_Blue_Magic"
+  },
+  {
+    "name": "AquaRake",
+    "type": "toggle",
+    "img": "images/spells/aquarake.png",
+    "codes": "AquaRake_Blue_Magic"
+  },
+  {
+    "name": "L5 Doom",
+    "type": "toggle",
+    "img": "images/spells/l5_doom.png",
+    "codes": "L5_Doom_Blue_Magic"
+  },
+  {
+    "name": "L4 Quarter",
+    "type": "toggle",
+    "img": "images/spells/l4_quarter.png",
+    "codes": "L4_Qrter_Blue_Magic"
+  },
+  {
+    "name": "L2 Old",
+    "type": "toggle",
+    "img": "images/spells/l2_old.png",
+    "codes": "L2_Old_Blue_Magic"
+  },
+  {
+    "name": "L3 Flare",
+    "type": "toggle",
+    "img": "images/spells/l3_flare.png",
+    "codes": "L3_Flare_Blue_Magic"
+  },
+  {
+    "name": "FrogSong",
+    "type": "toggle",
+    "img": "images/spells/frogsong.png",
+    "codes": "FrogSong_Blue_Magic"
+  },
+  {
+    "name": "TinySong",
+    "type": "toggle",
+    "img": "images/spells/tinysong.png",
+    "codes": "TinySong_Blue_Magic"
+  },
+  {
+    "name": "Flash",
+    "type": "toggle",
+    "img": "images/spells/flash.png",
+    "codes": "Flash_Blue_Magic"
+  },
+  {
+    "name": "Time Slip",
+    "type": "toggle",
+    "img": "images/spells/time_slip.png",
+    "codes": "Time_Slip_Blue_Magic"
+  },
+  {
+    "name": "MoonFlut",
+    "type": "toggle",
+    "img": "images/spells/moonflute.png",
+    "codes": "MoonFlut_Blue_Magic"
+  },
+  {
+    "name": "DethClaw",
+    "type": "toggle",
+    "img": "images/spells/deathclaw.png",
+    "codes": "DethClaw_Blue_Magic"
+  },
+  {
+    "name": "Aero",
+    "type": "toggle",
+    "img": "images/spells/aero.png",
+    "codes": "Aero_Blue_Magic"
+  },
+  {
+    "name": "Aero2",
+    "type": "toggle",
+    "img": "images/spells/aero2.png",
+    "codes": "Aero_2_Blue_Magic"
+  },
+  {
+    "name": "Aero3",
+    "type": "toggle",
+    "img": "images/spells/aero3.png",
+    "codes": "Aero_3_Blue_Magic"
+  },
+  {
+    "name": "Emission",
+    "type": "toggle",
+    "img": "images/spells/emission.png",
+    "codes": "Emission_Blue_Magic"
+  },
+  {
+    "name": "GblinPnch",
+    "type": "toggle",
+    "img": "images/spells/goblinpunch.png",
+    "codes": "GblinPnch_Blue_Magic"
+  },
+  {
+    "name": "DrkShock",
+    "type": "toggle",
+    "img": "images/spells/darkshock.png",
+    "codes": "DrkShock_Blue_Magic"
+  },
+  {
+    "name": "GuardOff",
+    "type": "toggle",
+    "img": "images/spells/guardoff.png",
+    "codes": "GuardOff_Blue_Magic"
+  },
+  {
+    "name": "Fusion",
+    "type": "toggle",
+    "img": "images/spells/fusion.png",
+    "codes": "Fusion_Blue_Magic"
+  },
+  {
+    "name": "MindBlst",
+    "type": "toggle",
+    "img": "images/spells/mindblast.png",
+    "codes": "MindBlst_Blue_Magic"
+  },
+  {
+    "name": "Vamipre",
+    "type": "toggle",
+    "img": "images/spells/vampire.png",
+    "codes": "Vampire_Blue_Magic"
+  },
+  {
+    "name": "Hammer",
+    "type": "toggle",
+    "img": "images/spells/hammer.png",
+    "codes": "Hammer_Blue_Magic"
+  },
+  {
+    "name": "BigGuard",
+    "type": "toggle",
+    "img": "images/spells/bigguard.png",
+    "codes": "BigGuard_Blue_Magic"
+  },
+  {
+    "name": "Exploder",
+    "type": "toggle",
+    "img": "images/spells/exploder.png",
+    "codes": "Exploder_Blue_Magic"
+  },
+  {
+    "name": "????",
+    "type": "toggle",
+    "img": "images/spells/question_marks.png",
+    "codes": "????_Blue_Magic"
+  },
+  {
+    "name": "Blowfish",
+    "type": "toggle",
+    "img": "images/spells/blowfish.png",
+    "codes": "Blowfish_Blue_Magic"
+  },
+  {
+    "name": "WhiteWind",
+    "type": "toggle",
+    "img": "images/spells/whitewind.png",
+    "codes": "WhiteWind_Blue_Magic"
+  },
+  {
+    "name": "Missile",
+    "type": "toggle",
+    "img": "images/spells/missile.png",
+    "codes": "Missile_Blue_Magic"
+  }
+]

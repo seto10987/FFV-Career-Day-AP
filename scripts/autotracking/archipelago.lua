@@ -1,15 +1,22 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/flag_mapping.lua")
 
 CUR_INDEX = -1
 SLOT_DATA = nil
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
 
+PLAYER_ID = -1
+TEAM_NUMBER = 0
+
+EVENT_ID = ""
+
 function onClear(slot_data)
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
     end
+	PLAYER_NUMBER = Archipelago.PlayerNumber or -1
     SLOT_DATA = slot_data
     CUR_INDEX = -1
     -- reset locations
@@ -54,16 +61,24 @@ function onClear(slot_data)
     if SLOT_DATA == nil then
         return
     end
-	
-	PLAYER_ID = Archipelago.PlayerNumber or -1
+
+	PLAYER_NUMBER = Archipelago.PlayerNumber or -1
 	TEAM_NUMBER = Archipelago.TeamNumber or 0
 
-        if slot_data["world_lock"] then
-            Tracker:FindObjectForCode("worlds").CurrentStage = tonumber(slot_data["world_lock"])
-        end
-        if slot_data["progression_checks"] then
-            Tracker:FindObjectForCode("chests").CurrentStage = tonumber(slot_data["progression_checks"])
-        end
+    if slot_data["world_lock"] then
+        Tracker:FindObjectForCode("worlds").CurrentStage = tonumber(slot_data["world_lock"])
+    end
+    if slot_data["progression_checks"] then
+        Tracker:FindObjectForCode("chests").CurrentStage = tonumber(slot_data["progression_checks"])
+    end
+
+	if PLAYER_NUMBER > -1 then
+        updateEvents(0)
+        EVENT_ID = "FFVCD_EVENTS_"..TEAM_NUMBER.."_".. PLAYER_NUMBER
+        Archipelago:SetNotify({EVENT_ID})
+        Archipelago:Get({EVENT_ID})
+    end
+    print(string.format("SET NOTIFY %s",EVENT_ID))
 
 end
 -- called when an item gets collected
@@ -151,10 +166,42 @@ function onBounce(json)
     end
 end
 
+function onNotify(key, value, old_value)
+	if value ~= old_value then
+		if key == EVENT_ID then
+		  updateEvents(value)
+		end
+	end
+end
+
+function onNotifyLaunch(key, value)
+	if key == EVENT_ID then
+		updateEvents(value)
+	end
+end
+
+function updateEvents(value)
+    if value ~= nil then
+      if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+        print(string.format("updateEvents: Value - %s", value))
+      end
+      for _, event in pairs(EVENT_FLAG_MAPPING) do
+        local bitmask = 2 ^ event.bit
+        for _, code in pairs(event.codes) do
+          if code.setting == nil or has(code.setting) then
+            if code.code == "harbor_mail" then
+              Tracker:FindObjectForCode(code.code).Active = Tracker:FindObjectForCode(code.code).Active or value & bitmask ~= 0
+            else
+              Tracker:FindObjectForCode(code.code).Active = value & bitmask ~= 0
+            end
+          end
+        end
+      end
+    end
+  end
+ 
 Archipelago:AddClearHandler("clear handler", onClear)
-if AUTOTRACKER_ENABLE_ITEM_TRACKING then
-    Archipelago:AddItemHandler("item handler", onItem)
-end
-if AUTOTRACKER_ENABLE_LOCATION_TRACKING then
-    Archipelago:AddLocationHandler("location handler", onLocation)
-end
+Archipelago:AddItemHandler("item handler", onItem)
+Archipelago:AddLocationHandler("location handler", onLocation)
+Archipelago:AddSetReplyHandler("notify handler", onNotify)
+Archipelago:AddRetrievedHandler("notify launch handler", onNotifyLaunch)
