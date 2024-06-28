@@ -1,0 +1,286 @@
+[
+	{
+		"name": "Hint Locations",
+		"visibility_rules":["hints_on"],
+		"access_rules": ["{}"],
+		"children": [
+			{
+				"name": "Tycoon Castle Hint",
+				"sections": [
+					{
+						"name": "Tycoon Castle - Chancellor Hint",
+						"chest_unopened_img": "/images/icons/chancellor.png",
+						"chest_opened_img": "/images/icons/chancellor_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 3043,
+						"y": 2119
+					},
+					{
+						"map": "world3",
+						"x": 3043,
+						"y": 2119
+					}
+				]
+			},		
+			{
+				"name": "Tule Hint",
+				"sections": [
+					{
+						"name": "Tule - Old Man Hint",
+						"chest_unopened_img": "/images/icons/kelb_frog.png",
+						"chest_opened_img": "/images/icons/kelb_frog_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 2189,
+						"y": 1433
+					},
+					{
+						"map": "world3",
+						"x": 2189,
+						"y": 1433
+					}
+				]
+			},
+			{
+				"name": "Walse Castle Hint",
+				"sections": [
+					{
+						"name": "Walse - Walse Castle Scholar Hint",
+						"chest_unopened_img": "/images/icons/library_npc.png",
+						"chest_opened_img": "/images/icons/library_npc_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 3375,
+						"y": 1950
+					},
+					{
+						"map": "world3",
+						"x": 3375,
+						"y": 1950
+					}
+				]
+			},
+			{
+			"name": "Karnak Hint",
+			"sections": [
+					{
+						"name": "Karnak - Karnak Scholar Hint",
+						"chest_unopened_img": "/images/icons/library_npc.png",
+						"chest_opened_img": "/images/icons/library_npc_opened.png"
+					}
+				],
+			"map_locations": [
+					{
+						"map": "world1",
+						"x": 1492,
+						"y": 1200
+					},
+					{
+						"map": "world3",
+						"x": 1492,
+						"y": 1200
+					}
+				]
+			},
+			{
+			"name": "Ancient Library Hint",
+			"sections": [
+					{
+						"name": "Ancient Library - Ghido Hint (Ether)",
+						"chest_unopened_img": "/images/icons/ghido.png",
+						"chest_opened_img": "/images/icons/ghido_opened.png"
+					}
+				],
+			"map_locations": [
+					{
+						"map": "world1",
+						"x": 1370,
+						"y": 1915
+					},
+					{
+						"map": "world3",
+						"x": 1370,
+						"y": 1915
+					}
+				]
+			},
+			{
+			"name": "Rugor Hint",
+			"access_rules": ["$W2"],
+			"sections": [
+					{
+						"name": "Rugor - Old Man Hint",
+						"chest_unopened_img": "/images/icons/kelb_frog.png",
+						"chest_opened_img": "/images/icons/kelb_frog_opened.png"
+					}
+				],
+			"map_locations": [
+					{
+						"map": "world2",
+						"x": 2645,
+						"y": 887
+					},
+					{
+						"map": "world3",
+						"x": 2645,
+						"y": 887
+					}
+				]
+			},
+			{
+				"name": "Bal Castle Hint",
+				"access_rules": ["$W2"],
+				"sections": [
+					{
+						"name": "Bal Castle - Old Man Hint",
+						"chest_unopened_img": "/images/icons/kelb_frog.png",
+						"chest_opened_img": "/images/icons/kelb_frog_opened.png"
+					}
+				],
+			"map_locations": [
+					{
+						"map": "world2",
+						"x": 1460,
+						"y": 2805
+					},
+					{
+						"map": "world3",
+						"x": 1460,
+						"y": 2805
+					}
+				]
+			},
+			{
+				"name": "Kelb Hint",
+				"access_rules": ["$W2"],
+				"sections": [
+					{
+						"name": "Kelb - Kelgar-Wolf Hint",
+						"chest_unopened_img": "/images/icons/kelb_wolf.png",
+						"chest_opened_img": "/images/icons/kelb_wolf_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 1436,
+						"y": 2360
+					},
+					{
+						"map": "world3",
+						"x": 1436,
+						"y": 2360
+					}
+				]
+			},
+			{
+				"name": "Surgate Castle Hint",
+				"access_rules": ["$W2"],
+				"sections": [
+
+					{
+						"name": "Surgate Castle - Old Woman Hint",
+						"chest_unopened_img": "/images/icons/old_woman.png",
+						"chest_opened_img": "/images/icons/old_woman_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 1330,
+						"y": 1765
+					},
+					{
+						"map": "world3",
+						"x": 1330,
+						"y": 1765
+					}
+				]
+			},
+			{
+				"name": "Mua Hint",
+				"access_rules": ["$W2"],
+				"sections": [
+					{
+						"name": "Mua - Old Man Hint",
+						"chest_unopened_img": "/images/icons/kelb_frog.png",
+						"chest_opened_img": "/images/icons/kelb_frog_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 470,
+						"y": 1830
+					},
+					{
+						"map": "world3",
+						"x": 470,
+						"y": 1830
+					}
+				]
+			},
+			{
+				"name": "Great Trench Hints",
+				"access_rules": ["$W3, Trench_Page, Submarine_Key"],
+				"sections": [
+					{
+						"name": "Great Trench - Dwarf Hint 1",
+						"chest_unopened_img": "/images/icons/dwarf.png",
+						"chest_opened_img": "/images/icons/dwarf_opened.png"
+					},
+					{
+						"name": "Great Trench - Dwarf Hint 2",
+						"chest_unopened_img": "/images/icons/dwarf.png",
+						"chest_opened_img": "/images/icons/dwarf_opened.png"
+					},
+					{
+						"name": "Great Trench - Dwarf Hint 3",
+						"chest_unopened_img": "/images/icons/dwarf.png",
+						"chest_opened_img": "/images/icons/dwarf_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 3725,
+						"y": 3055
+					}
+				]
+			},
+			{
+				"name": "Mirage Village Hints",
+				"access_rules": ["$W3, Mirage_Radar"],
+				"sections": [
+					{
+						"name": "Mirage Village - Pub NPC Hint 1",
+						"chest_unopened_img": "/images/icons/mirage_npc_1.png",
+						"chest_opened_img": "/images/icons/mirage_npc_1_opened.png"
+					},
+					{
+						"name": "Mirage Village - Pub NPC Hint 2",
+						"chest_unopened_img": "/images/icons/mirage_npc_2.png",
+						"chest_opened_img": "/images/icons/mirage_npc_2_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 2860,
+						"y": 3735
+					}
+				]
+			}
+		]
+	}
+]

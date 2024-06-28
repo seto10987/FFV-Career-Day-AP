@@ -33,6 +33,15 @@
 											"type": "layout",
 											"key": "boss_grid"
 										}
+									},
+									{
+										"type": "group",
+										"header": "Events and Tracking",
+										"dock": "top",
+										"content": {
+											"type": "layout",
+											"key": "event_grid"
+										}
 									}
 								]
 							}

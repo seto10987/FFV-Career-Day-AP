@@ -4,6 +4,7 @@ Tracker:AddItems("items/hosted_items.json")
 Tracker:AddItems("items/jobs.json")
 Tracker:AddItems("items/abilities.json")
 Tracker:AddItems("items/spells.json")
+Tracker:AddItems("items/settings.json")
 
 
 

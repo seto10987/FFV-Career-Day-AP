@@ -24,6 +24,15 @@
 											"type": "layout",
 											"key": "item_grid"
 										}
+									},
+									{
+										"type": "group",
+										"header": "Events",
+										"dock": "top",
+										"content": {
+											"type": "layout",
+											"key": "event_grid_2"
+										}
 									}
 								]
 							}

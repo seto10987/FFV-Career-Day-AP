@@ -477,5 +477,5 @@ ITEM_MAPPING = {
 [352001018] = {"2nd_Tablet", "toggle"},
 [352001019] = {"3rd_Tablet", "toggle"},
 [352001020] = {"4th_Tablet", "toggle"},
-[352001200] = {"Victory", "toggle"}
+[352001200] = {"Victory", "toggle"},
 }

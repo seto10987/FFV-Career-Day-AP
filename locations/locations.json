@@ -76,7 +76,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
+						"x": 2943,
+						"y": 2119
+					},
+					{
+						"map": "world3",
 						"x": 2943,
 						"y": 2119
 					}
@@ -111,12 +116,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 2648,
 						"y": 1850
 					},
 					{
-				"map": "world3",
+						"map": "world3",
 						"x": 2648,
 						"y": 1850
 					}
@@ -190,7 +195,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 2915,
 						"y": 840
 					}
@@ -256,12 +261,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 2089,
 						"y": 1433
 					},
 					{
-				"map": "world3",
+						"map": "world3",
 						"x": 2089,
 						"y": 1433
 					}
@@ -276,7 +281,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 2750,
 						"y": 1420
 					}
@@ -327,7 +332,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3380,
 						"y": 760
 					}
@@ -364,12 +369,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3520,
 						"y": 1240
 					},
 					{
-				"map": "world3",
+						"map": "world3",
 						"x": 3520,
 						"y": 1240
 					}
@@ -393,7 +398,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3625,
 						"y": 630
 					}
@@ -411,12 +416,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3432,
 						"y": 1850
 					},
 					{
-				"map": "world3",
+						"map": "world3",
 						"x": 3432,
 						"y": 1850
 					}
@@ -478,12 +483,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3375,
 						"y": 1850
 					},
 					{
-				"map": "world3",
+						"map": "world3",
 						"x": 3375,
 						"y": 1850
 					}
@@ -546,7 +551,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3200,
 						"y": 1355
 					}
@@ -569,12 +574,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 1392,
 						"y": 1200
 					},
 					{
-				"map": "world3",
+						"map": "world3",
 						"x": 1392,
 						"y": 1200
 					}
@@ -627,7 +632,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 1355,
 						"y": 1270
 					}
@@ -722,9 +727,9 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
-						"x": 1335,
-						"y": 1220
+						"map": "world1",
+						"x": 1305,
+						"y": 1200
 					}
 				]
 			},
@@ -763,7 +768,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 1270,
 						"y": 1915
 					}
@@ -785,7 +790,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 1225,
 						"y": 2840
 					}
@@ -802,7 +807,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 935,
 						"y": 3130
 					}
@@ -836,12 +841,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3465,
 						"y": 3225
 					},
 					{
-				"map": "world3",
+						"map": "world3",
 						"x": 3465,
 						"y": 3225
 					}
@@ -864,7 +869,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3400,
 						"y": 3350
 					}
@@ -887,12 +892,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 576,
 						"y": 664
 					},
 					{
-				"map": "world3",
+						"map": "world3",
 						"x": 576,
 						"y": 664
 					}
@@ -910,12 +915,12 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 2795,
 						"y": 745
 					},
 					{
-				"map": "world3",
+						"map": "world3",
 						"x": 2795,
 						"y": 745
 					}
@@ -932,7 +937,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 730,
 						"y": 1760
 					}
@@ -960,7 +965,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3270,
 						"y": 3240
 					}
@@ -1070,7 +1075,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 1720,
 						"y": 2600
 					}
@@ -1090,7 +1095,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 2810,
 						"y": 2280
 					}
@@ -1107,7 +1112,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 1000,
 						"y": 2570
 					}
@@ -1129,7 +1134,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 1945,
 						"y": 1465
 					}
@@ -1145,7 +1150,7 @@
 				],
 				"map_locations": [
 					{
-				"map": "world1",
+						"map": "world1",
 						"x": 3272,
 						"y": 1353
 					}
@@ -1259,8 +1264,8 @@
 				]
 			},
 			{
-						"name": "Big Bridge",
-						"sections": [
+				"name": "Big Bridge",
+				"sections": [
 					{
 						"name": "Big Bridge - Gilgamesh 2 (Boss)",
 						"access_rules": ["$W2, Big_Bridge_Key"],
@@ -1276,9 +1281,10 @@
 				]
 			},
 			{
-						"name": "Rugor",
-						"visibility_rules":["chests_on"],
-						"sections": [
+				"name": "Rugor",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2"],
+				"sections": [
 					{
 						"name": "Rugor - Piano",
 						"hosted_item": "piano_rugor_hosted"
@@ -1294,10 +1300,10 @@
 				]
 			},
 			{
-						"name": "Kuzar",
-						"visibility_rules":["chests_on"],
-						"access_rules": ["$W2, [$has|tablet|4], tablet"],
-						"sections": [
+				"name": "Kuzar",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2, [$has|tablet|4], tablet"],
+				"sections": [
 					{
 						"name": "Kuzar - 12 Kuzar Events (Excalibur)",
 						"chest_unopened_img": "/images/icons/excalibur.png",
@@ -1373,9 +1379,9 @@
 				]
 			},
 			{
-						"name": "Moogle Waterway",
-						"access_rules": ["$W2"],
-						"sections": [
+				"name": "Moogle Waterway",
+				"access_rules": ["$W2"],
+				"sections": [
 					{
 						"name": "Moogle Waterway - Moogle Cave Chest (4400)",
 						"visibility_rules":["chests_on"]
@@ -1398,10 +1404,10 @@
 				]
 			},
 			{
-						"name": "Moogle Village",
-						"visibility_rules":["chests_on"],
-						"access_rules": ["$W2, Moogle_Suit"],
-						"sections": [
+				"name": "Moogle Village",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2, Moogle_Suit"],
+				"sections": [
 					{
 						"name": "Moogle Village - Moogle Village Chest (Elf Cape)"
 					},
@@ -1433,9 +1439,9 @@
 				]
 			},
 			{
-						"name": "Bal Castle",
-						"access_rules": ["$W2"],
-						"sections": [
+				"name": "Bal Castle",
+				"access_rules": ["$W2"],
+				"sections": [
 					{
 						"name": "Bal Castle - Abductor (Boss)",
 						"hosted_item": "abductor_hosted"
@@ -1477,10 +1483,10 @@
 				]
 			},
 			{
-						"name": "Kelb",
-						"visibility_rules":["chests_on"],
-						"access_rules": ["$W2"],
-						"sections": [
+				"name": "Kelb",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2"],
+				"sections": [
 					{
 						"name": "Kelb - Requiem Song at Kelb (Requiem)",
 						"chest_unopened_img": "/images/icons/kelb_wolf.png",
@@ -1507,9 +1513,9 @@
 				]
 			},
 			{
-						"name": "Hiryuu Valley",
-						"access_rules": ["$W2"],
-						"sections": [
+				"name": "Hiryuu Valley",
+				"access_rules": ["$W2"],
+				"sections": [
 					{
 						"name": "Hiryuu Valley - Hiryuu Valley Chest (5000)",
 						"visibility_rules":["chests_on"]
@@ -1554,10 +1560,10 @@
 				]
 			},
 			{
-						"name": "Surgate Castle",
-						"visibility_rules":["chests_on"],
-						"access_rules": ["$W2"],
-						"sections": [
+				"name": "Surgate Castle",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2"],
+				"sections": [
 
 					{
 						"name": "Surgate Castle - Speed Song at Surgate (Speed)",
@@ -1585,8 +1591,8 @@
 				]
 			},
 			{
-						"name": "Zeza's Fleet",
-						"sections": [
+				"name": "Zeza's Fleet",
+				"sections": [
 					{
 						"name": "Zeza Fleet - Gilgamesh 3 & Enkidou (Boss)",
 						"access_rules": ["$W2, Hiryuu_Call"],
@@ -1602,9 +1608,9 @@
 				]
 			},
 			{
-						"name": "Barrier Tower",
-						"access_rules": ["$W2, Submarine_Key"],
-						"sections": [
+				"name": "Barrier Tower",
+				"access_rules": ["$W2, Submarine_Key"],
+				"sections": [
 					{
 						"name": "Barrier Tower - Barrier Tower Chest MIB 1 (Drain Sword)",
 						"visibility_rules":["chests_on"]
@@ -1635,10 +1641,10 @@
 				]
 			},
 			{
-						"name": "Mua",
-						"visibility_rules":["chests_on"],
-						"access_rules": ["$W2"],
-						"sections": [
+				"name": "Mua",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2"],
+				"sections": [
 					{
 						"name": "Mua - Mua Town Barrel (Guardian)",
 						"chest_unopened_img": "/images/icons/barrel_book.png",
@@ -1668,9 +1674,9 @@
 				]
 			},
 			{
-						"name": "Mua Forest",
-						"access_rules": ["$W2, Elder_Branch"],
-						"sections": [
+				"name": "Mua Forest",
+				"access_rules": ["$W2, Elder_Branch"],
+				"sections": [
 					{
 						"name": "Mua - Mua Forest Chest (2500)",
 						"visibility_rules":["chests_on"]
@@ -1733,9 +1739,9 @@
 				]
 			},
 			{
-						"name": "Tule Pass",
-						"access_rules": ["$W3"],
-						"sections": [
+				"name": "Tule Pass",
+				"access_rules": ["$W3"],
+				"sections": [
 					{
 						"name": "Tule Pass - Antlion (Boss)",
 						"hosted_item": "antlion_hosted"
@@ -1885,9 +1891,9 @@
 				]
 			},
 			{
-						"name": "Istory Falls",
-						"access_rules": ["$W3, Falls_Page, Submarine_Key"],
-						"sections": [
+				"name": "Istory Falls",
+				"access_rules": ["$W3, Falls_Page, Submarine_Key"],
+				"sections": [
 					{
 						"name": "Istory Falls - Istory Falls Chest (Ether)",
 						"visibility_rules":["chests_on"]
@@ -1964,9 +1970,9 @@
 				]
 			},
 			{
-						"name": "Solitary Island",
-						"access_rules": ["$W3, Shrine_Page"],
-						"sections": [
+				"name": "Solitary Island",
+				"access_rules": ["$W3, Shrine_Page"],
+				"sections": [
 					{
 						"name": "Solitary Island - Solitary Island Chest (12000)",
 						"visibility_rules":["chests_on"]
@@ -2037,9 +2043,9 @@
 				]
 			},
 			{
-						"name": "Great Trench",
-						"access_rules": ["$W3, Trench_Page, Submarine_Key"],
-						"sections": [
+				"name": "Great Trench",
+				"access_rules": ["$W3, Trench_Page, Submarine_Key"],
+				"sections": [
 					{
 						"name": "Great Trench - Great Trench Chest (Water Scroll)",
 						"visibility_rules":["chests_on"]
@@ -2084,8 +2090,8 @@
 				]
 			},
 			{
-						"name": "Ancient Library (World 3)",
-						"sections": [
+				"name": "Ancient Library (World 3)",
+				"sections": [
 							{
 								"name": "Ancient Library - Ancient Library Chest (Ether)",
 								"visibility_rules":["chests_on"]
@@ -2132,9 +2138,9 @@
 				]
 			},
 			{
-						"name": "Rugor (World 3)",
-						"visibility_rules":["chests_on"],
-						"sections": [
+				"name": "Rugor (World 3)",
+				"visibility_rules":["chests_on"],
+				"sections": [
 					{
 						"name": "Rugor - Ribbon from girl in Rugor (Ribbon)",
 						"access_rules": ["$W3"],
@@ -2155,10 +2161,10 @@
 				]
 			},
 			{
-						"name": "Mirage Village",
-						"visibility_rules":["chests_on"],
-						"access_rules": ["$W3, Mirage_Radar"],
-						"sections": [
+				"name": "Mirage Village",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W3, Mirage_Radar"],
+				"sections": [
 					{
 						"name": "Mirage Village - Mirage Village Barrel (Thief Knife)",
 						"chest_unopened_img": "/images/icons/barrel.png",
@@ -2178,10 +2184,10 @@
 				]
 			},
 			{
-						"name": "Above Istory Falls",
-						"visibility_rules":["chests_on"],
-						"access_rules": ["$W3"],
-						"sections": [
+				"name": "Above Istory Falls",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W3"],
+				"sections": [
 					{
 						"name": "Istory Falls - Top of the Falls (Magic Lamp)",
 						"chest_unopened": "images/icons/istory_falls_chocobo.png",
@@ -2197,8 +2203,8 @@
 				]
 			},
 			{
-						"name": "North Mountain (World 3)",
-						"sections": [
+				"name": "North Mountain (World 3)",
+				"sections": [
 					{
 						"name": "North Mountain - North Mountain Chest (Soft)",
 						"visibility_rules":["chests_on"]
@@ -2233,9 +2239,9 @@
 				]
 			},
 			{
-						"name": "Underwater Walse Tower",
-						"access_rules": ["$W3, Submarine_Key"],
-						"sections": [
+				"name": "Underwater Walse Tower",
+				"access_rules": ["$W3, Submarine_Key"],
+				"sections": [
 					{
 						"name": "Walse Tower - GoGo (Boss)",
 						"hosted_item": "gogo_hosted"
@@ -2255,9 +2261,9 @@
 				]
 			},
 			{
-						"name": "Fork Tower",
-						"access_rules": ["$W3, guardian"],
-						"sections": [
+				"name": "Fork Tower",
+				"access_rules": ["$W3, guardian"],
+				"sections": [
 							{
 								"name": "Fork Tower - Fork Tower L. Chest (Ether)",
 								"visibility_rules":["chests_on"]
@@ -2304,8 +2310,8 @@
 				]
 			},
 			{
-						"name": "Jacole Cave (World 3)",
-						"sections": [
+				"name": "Jacole Cave (World 3)",
+				"sections": [
 					{
 						"name": "Jacole - Jacole Cave Chest (Shuriken)",
 						"visibility_rules":["chests_on"]
@@ -2340,10 +2346,10 @@
 				]
 			},
 			{
-						"name": "Phoenix Tower",
-						"visibility_rules":["chests_on"],
-						"access_rules": ["$W3, Mirage_Radar"],
-						"sections": [
+				"name": "Phoenix Tower",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W3, Mirage_Radar"],
+				"sections": [
 					{
 						"name": "Phoenix Tower - Phoenix Tower Pot (5000)",
 						"chest_unopened_img": "/images/icons/mimic_pot.png",
@@ -2409,9 +2415,9 @@
 				]
 			},
 			{
-					"name": "Rift",
-					"access_rules": ["$W3"],
-					"sections": [
+				"name": "Rift",
+				"access_rules": ["$W3"],
+				"sections": [
 					{
 						"name": "Rift (1 Tablet) - Rift (Ruins) Chest (Ether)",
 						"visibility_rules":["chests_on"],
@@ -2505,8 +2511,7 @@
 					{
 						"name": "Rift (3 Tablets) - Rift (Castle) Chest (Thor Hammer)",
 						"visibility_rules":["chests_on"],
-						"access_rules": ["$has|tablet|2",
-							"$has|tablet|3",
+						"access_rules": ["$has|tablet|3",
 							"$has|tablet|4"]
 					},
 					{
@@ -2543,9 +2548,9 @@
 				]
 			},
 			{
-						"name": "Void",
-						"access_rules": ["$W3, $has|tablet|4"],
-						"sections": [
+				"name": "Void",
+				"access_rules": ["$W3, $has|tablet|4"],
+				"sections": [
 					{
 						"name": "Void - The Void Chest (Pinwheel 1)",
 						"visibility_rules":["chests_on"]

@@ -9,9 +9,9 @@ ScriptHost:LoadScript("scripts/watch.lua")
 ScriptHost:LoadScript("scripts/utils.lua")
 ScriptHost:LoadScript("scripts/logic.lua")
 ScriptHost:LoadScript("scripts/autotracking.lua")
+ScriptHost:LoadScript("scripts/locations.lua")
 
 Tracker:AddMaps("maps/maps.json")
 
-Tracker:AddLocations("locations/locations.json")
 
 initialize_watch_items()

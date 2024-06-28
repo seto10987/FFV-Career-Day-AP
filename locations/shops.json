@@ -1,0 +1,700 @@
+[
+	{
+		"name": "Shop Locations",
+		"visibility_rules":["shops_on"],
+		"access_rules": ["{}, moogle_suit"],
+		"children": [
+			{
+				"name": "Tule Shops",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Tule - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Tule - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Tule - Magic Shop",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Tule - Item Shop",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 2089,
+						"y": 1333
+					},
+					{
+						"map": "world3",
+						"x": 2089,
+						"y": 1333
+					}
+				]
+			},
+			{
+				"name": "Carwen Shops",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Carwen - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Carwen - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Carwen - Magic Shop",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Carwen - Item Shop",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 3420,
+						"y": 1240
+					},
+					{
+						"map": "world3",
+						"x": 3420,
+						"y": 1240
+					}
+				]
+			},
+			{
+				"name": "Walse Shops",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Walse - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Walse - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Walse - Magic Shop",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Walse - Item Shop",
+						"ref": "Shop Locations/Carwen Shops/Carwen - Item Shop",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 3432,
+						"y": 1950
+					},
+					{
+						"map": "world3",
+						"x": 3432,
+						"y": 1950
+					}
+				]
+			},
+			{
+				"name": "Karnak Shops",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Karnak - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Karnak - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Karnak - Magic Shop 1",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Karnak - Magic Shop 2",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Karnak - Magic Shop 3",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Karnak - Item Shop",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 1392,
+						"y": 1100
+					},
+					{
+						"map": "world3",
+						"x": 1392,
+						"y": 1100
+					}
+				]
+			},
+			{
+				"name": "Jacole Shops",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Jacole - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Jacole - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Jacole - Magic Shop",
+						"ref": "Shop Locations/Karnak Shops/Karnak - Magic Shop 1",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Jacole - Item Shop",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 835,
+						"y": 3130
+					}
+				]
+			},
+			{
+				"name": "Crescent Shops",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Crescent - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Crescent - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Crescent - Magic Shop",
+						"ref": "Shop Locations/Karnak Shops/Karnak - Magic Shop 2",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Crescent - Item Shop",
+						"ref": "Shop Locations/Jacole Shops/Jacole - Item Shop",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 3565,
+						"y": 3225
+					},
+					{
+						"map": "world3",
+						"x": 3565,
+						"y": 3225
+					}
+				]
+			},
+			{
+				"name": "Istory Shops",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Istory - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Istory - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Istory - Magic Shop",
+						"ref": "Shop Locations/Karnak Shops/Karnak - Magic Shop 3",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Istory - Item Shop",
+						"ref": "Shop Locations/Jacole Shops/Jacole - Item Shop",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 476,
+						"y": 664
+					},
+					{
+						"map": "world3",
+						"x": 476,
+						"y": 664
+					}
+				]
+			},
+			{
+				"name": "Lix Shops",
+				"visibility_rules":["chests_on"],
+				"sections": [
+					{
+						"name": "Lix - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Lix - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Lix - Magic Shop",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Lix - Item Shop",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world1",
+						"x": 2695,
+						"y": 745
+					},
+					{
+						"map": "world3",
+						"x": 2695,
+						"y": 745
+					}
+				]
+			},
+			{
+				"name": "Rugor Shops",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2"],
+				"sections": [
+					{
+						"name": "Rugor - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Rugor - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Rugor - Magic Shop 1",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Rugor - Magic Shop 2",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Rugor - Magic Shop 3",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Rugor - Item Shop 1",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					},
+					{
+						"name": "Rugor - Item Shop 2",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+
+					{
+						"map": "world2",
+						"x": 2445,
+						"y": 887
+					},
+					{
+						"map": "world3",
+						"x": 2445,
+						"y": 887
+					}
+				]
+			},
+			{
+				"name": "Bal Castle Shops",
+				"access_rules": ["$W2"],
+				"sections": [
+					{
+						"name": "Bal Castle - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Bal Castle - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Bal Castle - Magic Shop 1",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Magic Shop 1",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Bal Castle - Magic Shop 2",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Magic Shop 2",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Bal Castle - Magic Shop 3",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Magic Shop 3",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Bal Castle - Item Shop 1",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Item Shop 1",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					},
+					{
+						"name": "Bal Castle - Item Shop 2",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Item Shop 2",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 1360,
+						"y": 2705
+					},
+					{
+						"map": "world3",
+						"x": 1360,
+						"y": 2705
+					}
+				]
+			},
+			{
+				"name": "Kelb Shops",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2"],
+				"sections": [
+					{
+						"name": "Kelb - Weapons Shop 1",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Kelb - Weapons Shop 2",
+						"ref": "Shop Locations/Bal Castle Shops/Bal Castle - Weapon Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Kelb - Armor Shop 1",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Kelb - Armor Shop 2",
+						"ref": "Shop Locations/Bal Castle Shops/Bal Castle - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Kelb - Magic Shop 1",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Magic Shop 1",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Kelb - Magic Shop 2",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Magic Shop 2",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Kelb - Magic Shop 3",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Magic Shop 3",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Kelb - Item Shop 1",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Item Shop 1",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					},
+					{
+						"name": "Kelb - Item Shop 2",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Item Shop 2",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 1236,
+						"y": 2360
+					},
+					{
+						"map": "world3",
+						"x": 1236,
+						"y": 2360
+					}
+				]
+			},
+			{
+				"name": "Surgate Castle Shops",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2"],
+				"sections": [
+					{
+						"name": "Surgate Castle - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Surgate Castle - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Surgate Castle - Magic Shop 1",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Magic Shop 1",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Surgate Castle - Magic Shop 2",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Magic Shop 2",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Surgate Castle - Magic Shop 3",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Magic Shop 3",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Surgate Castle - Item Shop 1",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Item Shop 1",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					},
+					{
+						"name": "Surgate Castle - Item Shop 2",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Item Shop 2",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 1130,
+						"y": 1765
+					},
+					{
+						"map": "world3",
+						"x": 1130,
+						"y": 1765
+					}
+				]
+			},
+			{
+				"name": "Mua Shops",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W2"],
+				"sections": [
+					{
+						"name": "Mua - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Mua - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Mua - Magic Shop 1",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Mua - Magic Shop 2",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Mua - Magic Shop 3",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Mua - Item Shop 1",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Item Shop 1",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					},
+					{
+						"name": "Mua - Item Shop 2",
+						"ref": "Shop Locations/Rugor Shops/Rugor - Item Shop 2",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world2",
+						"x": 270,
+						"y": 1830
+					},
+					{
+						"map": "world3",
+						"x": 270,
+						"y": 1830
+					}
+				]
+			},
+			{
+				"name": "Great Trench Shops",
+				"access_rules": ["$W3, Trench_Page, Submarine_Key"],
+				"sections": [
+					{
+						"name": "Great Trench Shop - Weapons Shop",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Great Trench - Armor Shop",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 3525,
+						"y": 3055
+					}
+				]
+			},
+			{
+				"name": "Mirage Village Shops",
+				"visibility_rules":["chests_on"],
+				"access_rules": ["$W3, Mirage_Radar"],
+				"sections": [
+					{
+						"name": "Mirage Village - Weapons Shop 1",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Mirage Village - Weapons Shop 2",
+						"chest_unopened_img": "/images/icons/weapon_shop.png",
+						"chest_opened_img": "/images/icons/weapon_shop_opened.png"
+					},
+					{
+						"name": "Mirage Village - Armor Shop 1",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Mirage Village - Armor Shop 2",
+						"chest_unopened_img": "/images/icons/armor_shop.png",
+						"chest_opened_img": "/images/icons/armor_shop_opened.png"
+					},
+					{
+						"name": "Mirage Village - Magic Shop 1",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Mirage Village - Magic Shop 2",
+						"chest_unopened_img": "/images/icons/magic_shop.png",
+						"chest_opened_img": "/images/icons/magic_shop_opened.png"
+					},
+					{
+						"name": "Mirage Village - Item Shop 1",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					},
+					{
+						"name": "Mirage Village - Item Shop 2",
+						"chest_unopened_img": "/images/icons/item_shop.png",
+						"chest_opened_img": "/images/icons/item_shop_opened.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "world3",
+						"x": 2660,
+						"y": 3735
+					}
+				]
+			}
+		]
+	}
+]

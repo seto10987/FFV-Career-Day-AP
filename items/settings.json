@@ -1,0 +1,103 @@
+﻿[
+  {
+    "name": "Treasure Chests",
+    "codes": "chests",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":true,
+    "initial_stage_idx": 1,
+    "stages": [
+      {
+        "img": "images/settings/hide_chests.png",
+        "codes": "chests_off",
+        "inherit_codes":false
+      },
+      {
+        "img": "images/settings/show_chests.png",
+        "codes": "chests_on",
+        "inherit_codes":false
+      }
+    ]
+  },
+  {
+    "name": "Worlds Unlocked",
+    "codes": "worlds",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/settings/world_1.png",
+        "codes": "world1",
+        "inherit_codes":true
+      },
+      {
+        "img": "images/settings/world_2.png",
+        "codes": "world2",
+        "inherit_codes":true
+      },
+      {
+        "img": "images/settings/world_3.png",
+        "codes": "world3",
+        "inherit_codes":true
+      }
+    ]
+  },
+  {
+    "name": "Display Shops",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":true,
+    "initial_stage_idx": 1,
+    "codes": "shops",
+    "stages": [
+      {
+        "img": "images/settings/hide_shops.png",
+        "codes": "shops_off",
+        "inherit_codes":false
+      },
+      {
+        "img": "images/settings/show_shops.png",
+        "codes": "shops_on",
+        "inherit_codes":false
+      }
+    ]
+  },
+  {
+    "name": "Display Hints",
+    "type": "progressive",
+    "allow_disabled":false,
+    "loop":true,
+    "initial_stage_idx": 1,
+    "codes": "hints",
+    "stages": [
+      {
+        "img": "images/settings/hide_hints.png",
+        "codes": "hints_off",
+        "inherit_codes":false
+      },
+      {
+        "img": "images/settings/show_hints.png",
+        "codes": "hints_on",
+        "inherit_codes":false
+      }
+    ]
+  },
+  {
+    "name": "Current Level",
+    "type": "progressive",
+    "img": "",
+    "disabled_img": "",
+    "codes": "cur_level_id"
+	},
+	{
+	  "name": "Auto-Tab",
+	  "type": "progressive",
+	  "loop": true,
+	  "img": "images/settings/autotab.png",
+	  "disabled_img": "images/settings/autotab_off.png",
+	  "codes": "tab_switch"
+	}
+ ] 
+  

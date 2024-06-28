@@ -6,15 +6,13 @@
             {
                 "type": "itemgrid",
                 "h_alignment": "center",
-                "item_size": "50",
-                "item_margin": "1,2",
+                "item_size": "47",
+                "item_margin": "5,2",
                 "rows": [
-                    ["1st_Tablet", "2nd_Tablet", "3rd_Tablet", "4th_Tablet"],
-                    ["Pyramid_Page", "Shrine_Page", "Trench_Page", "Falls_Page"],
-                    ["Walse_Tower_Key", "Steamship_Key", "Submarine_Key", "Big_Bridge_Key"],
-                    ["Adamantite", "Elder_Branch", "Hiryuu_Call", "Bracelet"],
-                    ["Anti_Barrier", "Ifrit's_Fire", "Moogle_Suit", "SandwormBait"],
-                    ["Mirage_Radar", "piano_counter", "exdeathw2","exdeath"]
+                    ["1st_Tablet","Pyramid_Page","Walse_Tower_Key","Ifrit's_Fire","Moogle_Suit"],
+                    ["2nd_Tablet", "Shrine_Page","Steamship_Key","SandwormBait","Mirage_Radar"],
+                    ["3rd_Tablet","Trench_Page","Submarine_Key","Hiryuu_Call","Adamantite"],
+                    ["4th_Tablet","Falls_Page","Big_Bridge_Key","Elder_Branch","W2_Keys"]
                 ]
             }
         ]
@@ -26,17 +24,47 @@
             {
                 "type": "itemgrid",
                 "h_alignment": "center",
-                "item_margin": "1,2",
+                "item_size": "35",
+                "item_margin": "3,3",
                 "rows": [
-                    ["wingraptorx", "karlibosx", "sirenx", "magisax", "galurax", "shivax"],
-                    ["liquidflamex", "ironclawx", "ifritx", "byblosx", "sandwormx", "adamantx"],
-                    ["solcannonx", "archaeavisx", "crayclawx", "chimbrainx", "titanx", "puroborosx"],
-                    ["tyrasaurusx", "abductorx", "hiryuuplantx", "guardianx", "atomosx", "carbunklex"],
-                    ["gilga1x", "gilga2x", "gilgaenkix", "gilga4x", "antlionx", "gargoylex"],
-                    ["merugenex", "stalkerx", "leviathanx", "tritonx", "omniscientx", "minotaurusx"],
-                    ["gogox", "odinx", "bahamutx", "ramuhx", "shoatx", "golemx"],
-                    ["calofisterix", "apandax", "apocalypsex", "catastrophx", "halicarnasox", "twintaniax"],
-                    ["necrophobex"]
+                    ["wingraptorx", "karlibosx", "sirenx", "magisax", "galurax", "shivax","liquidflamex"],
+                    ["ironclawx", "ifritx", "byblosx", "sandwormx", "adamantx","solcannonx", "archaeavisx"],
+                    ["crayclawx", "chimbrainx", "titanx", "puroborosx","tyrasaurusx", "abductorx", "hiryuuplantx"],
+                    ["guardianx", "atomosx", "carbunklex","gilga1x", "gilga2x", "gilgaenkix", "gilga4x"],
+                    ["antlionx", "gargoylex","merugenex", "stalkerx", "leviathanx", "tritonx", "omniscientx"],
+                    ["minotaurusx","gogox", "odinx", "bahamutx", "ramuhx", "shoatx", "golemx"],
+                    ["calofisterix", "apandax", "apocalypsex", "catastrophx", "halicarnasox", "twintaniax","necrophobex"]
+                ]
+            }
+        ]
+    },
+    "event_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": "55",
+                "item_margin": "1,10",
+                "rows": [
+                    ["piano_counter","","exdeathw2","","exdeath"],
+                    ["tab_switch","","shops","","hints"]
+                ]
+            }
+        ]
+    },
+    "event_grid_2": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": "55",
+                "item_margin": "1,10",
+                "rows": [
+                    ["piano_counter","","exdeathw2","","exdeath"]
                 ]
             }
         ]
